@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# logs
+*.log
+
+# local env
+.env
+
+# cache
+.cache/

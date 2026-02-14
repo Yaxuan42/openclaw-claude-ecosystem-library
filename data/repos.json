@@ -1,0 +1,1685 @@
+[
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "openclaw+mcp",
+      "openclaw+memory",
+      "claude-code+hooks"
+    ],
+    "fullName": "parcadei/Continuous-Claude-v3",
+    "url": "https://github.com/parcadei/Continuous-Claude-v3",
+    "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.",
+    "stars": 3510,
+    "updatedAt": "2026-02-14T11:59:55Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 96
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "VoltAgent/awesome-openclaw-skills",
+    "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+    "description": "The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.",
+    "stars": 14907,
+    "updatedAt": "2026-02-14T14:50:11Z",
+    "language": "",
+    "license": "MIT",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 94
+  },
+  {
+    "queryTags": [
+      "claude-code+dashboard",
+      "openclaw+claude-code"
+    ],
+    "fullName": "chiphuyen/sniffly",
+    "url": "https://github.com/chiphuyen/sniffly",
+    "description": "Claude Code dashboard with usage stats, error analysis, and sharable feature",
+    "stars": 1138,
+    "updatedAt": "2026-02-14T14:28:37Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 93
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway",
+      "claude-code+dashboard"
+    ],
+    "fullName": "crshdn/mission-control",
+    "url": "https://github.com/crshdn/mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "stars": 369,
+    "updatedAt": "2026-02-14T13:08:12Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Orchestration",
+    "score": 93
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway"
+    ],
+    "fullName": "DingTalk-Real-AI/dingtalk-moltbot-connector",
+    "url": "https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector",
+    "description": "将 钉钉机器人 / 钉钉 DEAP Agent 连接到 OpenClaw Gateway 的OpenClaw Plugin，支持 AI Card 流式响应",
+    "stars": 1248,
+    "updatedAt": "2026-02-14T10:08:52Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Bridge/MCP",
+    "score": 90
+  },
+  {
+    "queryTags": [
+      "openclaw+security"
+    ],
+    "fullName": "backbay-labs/clawdstrike",
+    "url": "https://github.com/backbay-labs/clawdstrike",
+    "description": "Build your own Swarm Detection & Response (SDR) platform and OpenClaw security infrastructure with Clawdstrike. Become a cyber industry.",
+    "stars": 105,
+    "updatedAt": "2026-02-14T04:11:07Z",
+    "language": "Rust",
+    "license": "Apache-2.0",
+    "category": "Security/Governance",
+    "score": 90
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "claude-code+hooks"
+    ],
+    "fullName": "disler/claude-code-hooks-mastery",
+    "url": "https://github.com/disler/claude-code-hooks-mastery",
+    "description": "Master Claude Code Hooks",
+    "stars": 3030,
+    "updatedAt": "2026-02-14T09:03:16Z",
+    "language": "Python",
+    "license": "",
+    "category": "Hooks/Extensions",
+    "score": 87
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "claude-code+dashboard",
+      "claude-code+hooks"
+    ],
+    "fullName": "disler/claude-code-hooks-multi-agent-observability",
+    "url": "https://github.com/disler/claude-code-hooks-multi-agent-observability",
+    "description": "Real-time monitoring for Claude Code agents through simple hook event tracking.",
+    "stars": 1111,
+    "updatedAt": "2026-02-14T14:39:09Z",
+    "language": "Python",
+    "license": "",
+    "category": "Notifications/Observability",
+    "score": 87
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "claude-code+hooks"
+    ],
+    "fullName": "GowayLee/cchooks",
+    "url": "https://github.com/GowayLee/cchooks",
+    "description": "A Python SDK for claude-code hooks",
+    "stars": 116,
+    "updatedAt": "2026-02-13T12:44:17Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Hooks/Extensions",
+    "score": 87
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway",
+      "claude-code+dashboard"
+    ],
+    "fullName": "abhi1693/openclaw-mission-control",
+    "url": "https://github.com/abhi1693/openclaw-mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "stars": 58,
+    "updatedAt": "2026-02-14T14:42:37Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Orchestration",
+    "score": 87
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "zscole/model-hierarchy-skill",
+    "url": "https://github.com/zscole/model-hierarchy-skill",
+    "description": "OpenClaw skill for cost-optimized model routing based on task complexity",
+    "stars": 244,
+    "updatedAt": "2026-02-14T13:53:53Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 85
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "claude-code+hooks"
+    ],
+    "fullName": "starbaser/ccproxy",
+    "url": "https://github.com/starbaser/ccproxy",
+    "description": "Build mods for Claude Code: Hook any request, modify any response, /model \"with-your-custom-model\", intelligent model routing using your logic or ours",
+    "stars": 168,
+    "updatedAt": "2026-02-14T12:30:02Z",
+    "language": "Python",
+    "license": "Other",
+    "category": "Bridge/MCP",
+    "score": 85
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "claude-code+hooks"
+    ],
+    "fullName": "beyondcode/claude-hooks-sdk",
+    "url": "https://github.com/beyondcode/claude-hooks-sdk",
+    "description": "A PHP SDK for building Claude Code hooks",
+    "stars": 61,
+    "updatedAt": "2026-02-13T00:01:49Z",
+    "language": "PHP",
+    "license": "MIT",
+    "category": "Hooks/Extensions",
+    "score": 84
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "BankrBot/openclaw-skills",
+    "url": "https://github.com/BankrBot/openclaw-skills",
+    "description": "Moltbot skill library for AI agents. Including polymarket, crypto trading, DeFi operations,  automation, and more. Open a PR to add skills. ",
+    "stars": 650,
+    "updatedAt": "2026-02-14T13:46:43Z",
+    "language": "Shell",
+    "license": "",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 83
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "claude-code+hooks"
+    ],
+    "fullName": "karanb192/claude-code-hooks",
+    "url": "https://github.com/karanb192/claude-code-hooks",
+    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize.",
+    "stars": 141,
+    "updatedAt": "2026-02-14T13:22:16Z",
+    "language": "JavaScript",
+    "license": "MIT",
+    "category": "Hooks/Extensions",
+    "score": 83
+  },
+  {
+    "queryTags": [
+      "openclaw+memory"
+    ],
+    "fullName": "arosstale/openclaw-memory-template",
+    "url": "https://github.com/arosstale/openclaw-memory-template",
+    "description": "Production-ready memory system template for OpenClaw/Clawdbot agents",
+    "stars": 18,
+    "updatedAt": "2026-02-13T20:26:48Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 82
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "openclaw+security"
+    ],
+    "fullName": "jmckinley/snapper",
+    "url": "https://github.com/jmckinley/snapper",
+    "description": "Snapper - Agent Application Firewall (AAF) for AI agents (OpenClaw, Claude Code, Cursor)",
+    "stars": 12,
+    "updatedAt": "2026-02-13T22:06:14Z",
+    "language": "Python",
+    "license": "Other",
+    "category": "Security/Governance",
+    "score": 82
+  },
+  {
+    "queryTags": [
+      "openclaw+memory",
+      "claude-code+dashboard",
+      "claude-code+hooks"
+    ],
+    "fullName": "gavdalf/openclaw-memory",
+    "url": "https://github.com/gavdalf/openclaw-memory",
+    "description": "Five-Layer Memory Protection for OpenClaw AI Agents — observer, reflector, reactive watcher, pre-compaction hook, session recovery",
+    "stars": 11,
+    "updatedAt": "2026-02-14T12:49:17Z",
+    "language": "Shell",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 82
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "claude-code+hooks"
+    ],
+    "fullName": "pascalporedda/awesome-claude-code",
+    "url": "https://github.com/pascalporedda/awesome-claude-code",
+    "description": "A first attempt of gathering awesome Claude Code hooks in one place, so we can all benefit. Please feel free to open an issue or a PR and add your own gusto.",
+    "stars": 68,
+    "updatedAt": "2026-02-13T11:26:08Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Hooks/Extensions",
+    "score": 80
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "claude-code+dashboard"
+    ],
+    "fullName": "m-sigepon/ClaudeCode_Dashboard",
+    "url": "https://github.com/m-sigepon/ClaudeCode_Dashboard",
+    "description": "Dashboard for tracking Claude Code API usage with USD/JPY conversion",
+    "stars": 17,
+    "updatedAt": "2026-02-10T16:00:08Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 80
+  },
+  {
+    "queryTags": [
+      "openclaw+mcp"
+    ],
+    "fullName": "androidStern-personal/openclaw-mcp-adapter",
+    "url": "https://github.com/androidStern-personal/openclaw-mcp-adapter",
+    "description": "OpenClaw plugin that exposes MCP server tools as native agent tools",
+    "stars": 11,
+    "updatedAt": "2026-02-13T03:38:07Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Bridge/MCP",
+    "score": 80
+  },
+  {
+    "queryTags": [
+      "claude-code+hooks"
+    ],
+    "fullName": "webdevtodayjason/claude-hooks",
+    "url": "https://github.com/webdevtodayjason/claude-hooks",
+    "description": "Claude Code Hooks Manager for managing Hooks in Claude Code via CLI.",
+    "stars": 74,
+    "updatedAt": "2026-01-12T23:22:14Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Hooks/Extensions",
+    "score": 79
+  },
+  {
+    "queryTags": [
+      "claude-code+hooks"
+    ],
+    "fullName": "ramakay/claude-organizer",
+    "url": "https://github.com/ramakay/claude-organizer",
+    "description": "AI-powered file organization and context engineering that understands content, not patterns. Works seamlessly with Claude Code hooks. Protects README, LICENSE, configs.",
+    "stars": 59,
+    "updatedAt": "2026-01-28T19:14:00Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Hooks/Extensions",
+    "score": 79
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "openclaw+security"
+    ],
+    "fullName": "peg/rampart",
+    "url": "https://github.com/peg/rampart",
+    "description": "Open-source firewall for AI agents. Policy engine that controls what OpenClaw, Claude Code, Cursor, Codex, and any AI tool can do on your machine.",
+    "stars": 9,
+    "updatedAt": "2026-02-14T04:06:12Z",
+    "language": "Go",
+    "license": "Apache-2.0",
+    "category": "Security/Governance",
+    "score": 79
+  },
+  {
+    "queryTags": [
+      "openclaw+skills",
+      "openclaw+security"
+    ],
+    "fullName": "kiwi-miwi/skill-vetter",
+    "url": "https://github.com/kiwi-miwi/skill-vetter",
+    "description": "Security scanner for OpenClaw skills - detect ClawHavoc and malicious code",
+    "stars": 9,
+    "updatedAt": "2026-02-07T07:20:20Z",
+    "language": "Python",
+    "license": "Other",
+    "category": "Security/Governance",
+    "score": 79
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway",
+      "claude-code+dashboard"
+    ],
+    "fullName": "jason-allen-oneal/openclaw-observability-monitor",
+    "url": "https://github.com/jason-allen-oneal/openclaw-observability-monitor",
+    "description": "Lightweight localhost observability monitor for OpenClaw: gateway status, event feed, and snapshots.",
+    "stars": 7,
+    "updatedAt": "2026-02-14T14:04:04Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 79
+  },
+  {
+    "queryTags": [
+      "openclaw+mcp",
+      "openclaw+security",
+      "claude-code+dashboard"
+    ],
+    "fullName": "2pidata/openclaw-security-guard",
+    "url": "https://github.com/2pidata/openclaw-security-guard",
+    "description": "Complete security layer for OpenClaw - CLI Scanner + Live Dashboard. Secrets detection, config hardening, prompt injection scanning, MCP server auditing. Zero telemetry.",
+    "stars": 7,
+    "updatedAt": "2026-02-13T19:02:37Z",
+    "language": "JavaScript",
+    "license": "Other",
+    "category": "Notifications/Observability",
+    "score": 79
+  },
+  {
+    "queryTags": [
+      "openclaw+memory"
+    ],
+    "fullName": "ktao732084-arch/openclaw_memory_supersystem-v1.0",
+    "url": "https://github.com/ktao732084-arch/openclaw_memory_supersystem-v1.0",
+    "description": "AI Agent Memory System inspired by Neuroscience",
+    "stars": 6,
+    "updatedAt": "2026-02-12T09:40:06Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 79
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "sharbelxyz/x-bookmarks",
+    "url": "https://github.com/sharbelxyz/x-bookmarks",
+    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying.",
+    "stars": 183,
+    "updatedAt": "2026-02-14T14:06:36Z",
+    "language": "Python",
+    "license": "",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 78
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "second-state/payment-skill",
+    "url": "https://github.com/second-state/payment-skill",
+    "description": "A Claude Code / OpenClaw skill for requesting, accepting, and making payments from / to humans and agents",
+    "stars": 86,
+    "updatedAt": "2026-02-14T02:20:47Z",
+    "language": "Rust",
+    "license": "",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 78
+  },
+  {
+    "queryTags": [
+      "claude-code+dashboard",
+      "claude-code+hooks"
+    ],
+    "fullName": "williamkapke/MadameClaude",
+    "url": "https://github.com/williamkapke/MadameClaude",
+    "description": "Madame Claude is a monitoring system for Claude Code hooks that captures and streams tool usage events to a web interface.",
+    "stars": 21,
+    "updatedAt": "2026-01-26T01:38:20Z",
+    "language": "HTML",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 78
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "codeaashu/awesome-openclaw-Skills",
+    "url": "https://github.com/codeaashu/awesome-openclaw-Skills",
+    "description": "The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.",
+    "stars": 16,
+    "updatedAt": "2026-02-12T22:12:00Z",
+    "language": "",
+    "license": "MIT",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 78
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "Creator-Bid/Clawlett",
+    "url": "https://github.com/Creator-Bid/Clawlett",
+    "description": "OpenClaw skill for permissioned on-chain actions. Agents operate, humans stay in control.",
+    "stars": 3,
+    "updatedAt": "2026-02-13T07:07:43Z",
+    "language": "JavaScript",
+    "license": "MIT",
+    "category": "Security/Governance",
+    "score": 78
+  },
+  {
+    "queryTags": [
+      "claude-code+hooks"
+    ],
+    "fullName": "win4r/claude-code-hooks",
+    "url": "https://github.com/win4r/claude-code-hooks",
+    "description": "Claude Code hooks collection",
+    "stars": 75,
+    "updatedAt": "2026-02-14T11:24:50Z",
+    "language": "Python",
+    "license": "",
+    "category": "Hooks/Extensions",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "sundial-org/awesome-openclaw-skills",
+    "url": "https://github.com/sundial-org/awesome-openclaw-skills",
+    "description": "Top OpenClaw skills, regularly updated with the most popular and useful ones.",
+    "stars": 38,
+    "updatedAt": "2026-02-12T12:41:27Z",
+    "language": "Python",
+    "license": "",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "claude-code+hooks",
+      "openclaw+claude-code"
+    ],
+    "fullName": "sushichan044/cc-hooks-ts",
+    "url": "https://github.com/sushichan044/cc-hooks-ts",
+    "description": "Define Claude Code hooks with full type safety.",
+    "stars": 31,
+    "updatedAt": "2026-02-14T08:40:50Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Hooks/Extensions",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "blessonism/openclaw-search-skills",
+    "url": "https://github.com/blessonism/openclaw-search-skills",
+    "description": "OpenClaw skills for deep GitHub project analysis - multi-source search, content extraction, and structured research reports.",
+    "stars": 28,
+    "updatedAt": "2026-02-14T12:51:31Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "claude-code+hooks"
+    ],
+    "fullName": "astrodragonv/claudecode-rule2hook",
+    "url": "https://github.com/astrodragonv/claudecode-rule2hook",
+    "description": "Transform natural language project rules into Claude Code hooks effortlessly with claudecode-rule2hook.",
+    "stars": 17,
+    "updatedAt": "2026-02-14T11:55:23Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Hooks/Extensions",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "openclaw+skills",
+      "openclaw+claude-code",
+      "openclaw+mcp"
+    ],
+    "fullName": "Enderfga/openclaw-claude-code-skill",
+    "url": "https://github.com/Enderfga/openclaw-claude-code-skill",
+    "description": "Integrate Claude Code capabilities into OpenClaw (formerly Clawdbot) using MCP. More info: https://openclaw.ai/",
+    "stars": 7,
+    "updatedAt": "2026-02-14T13:33:29Z",
+    "language": "JavaScript",
+    "license": "MIT",
+    "category": "Bridge/MCP",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "openclaw+mcp"
+    ],
+    "fullName": "freema/openclaw-mcp",
+    "url": "https://github.com/freema/openclaw-mcp",
+    "description": "🦞 MCP server for OpenClaw - secure bridge between Claude.ai and your self-hosted OpenClaw assistant with OAuth2 authentication",
+    "stars": 6,
+    "updatedAt": "2026-02-12T12:20:14Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Bridge/MCP",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "abdelmouss63-cyber/YieldClaw",
+    "url": "https://github.com/abdelmouss63-cyber/YieldClaw",
+    "description": "Autonomous DeFi yield agent for USYC/Hashnote on Arc Network. OpenClaw skill + x402 micropayment gateway + onchain YieldClawRegistry. Real-time vault analytics, payment stream monitoring, and yield intelligence  monetized through agentic commerce. Built for the OpenClaw USDC Hackathon.",
+    "stars": 4,
+    "updatedAt": "2026-02-11T19:32:57Z",
+    "language": "Shell",
+    "license": "MIT",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "openclaw+memory",
+      "openclaw+security",
+      "claude-code+dashboard"
+    ],
+    "fullName": "adibirzu/openclaw-security-monitor",
+    "url": "https://github.com/adibirzu/openclaw-security-monitor",
+    "description": "Proactive security monitoring for OpenClaw deployments. Detects ClawHavoc, AMOS stealer, CVE-2026-25253, memory poisoning, and supply chain attacks.",
+    "stars": 4,
+    "updatedAt": "2026-02-12T16:01:56Z",
+    "language": "Shell",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "openclaw+security"
+    ],
+    "fullName": "legendaryabhi/openclaw-security-scan",
+    "url": "https://github.com/legendaryabhi/openclaw-security-scan",
+    "description": "A CLI security scanner for OpenClaw AI agents that finds risky configurations and helps lock down agent runtimes before production.",
+    "stars": 4,
+    "updatedAt": "2026-02-10T07:13:00Z",
+    "language": "Shell",
+    "license": "MIT",
+    "category": "Security/Governance",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "openclaw+memory"
+    ],
+    "fullName": "robipop22/openclaw-memory",
+    "url": "https://github.com/robipop22/openclaw-memory",
+    "description": "Triple-layer memory system for AI agents — SQLite + Qdrant + Postgres/AGE",
+    "stars": 4,
+    "updatedAt": "2026-02-12T13:55:41Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "openclaw+security",
+      "claude-code+hooks"
+    ],
+    "fullName": "mizunashi-mana/claude-code-hook-sdk",
+    "url": "https://github.com/mizunashi-mana/claude-code-hook-sdk",
+    "description": "A TypeScript SDK to write claude-code hooks easily with type safety, dependency injection, and comprehensive testing support.",
+    "stars": 3,
+    "updatedAt": "2026-02-10T11:18:02Z",
+    "language": "TypeScript",
+    "license": "Other",
+    "category": "Security/Governance",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "openclaw+memory"
+    ],
+    "fullName": "Ramsbaby/openclaw-memorybox",
+    "url": "https://github.com/Ramsbaby/openclaw-memorybox",
+    "description": "🧠 Install once, forget about memory management. Zero-dependency maintenance CLI for OpenClaw agents. Works alongside Mem0, Supermemory, QMD.",
+    "stars": 2,
+    "updatedAt": "2026-02-14T07:52:14Z",
+    "language": "Shell",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway",
+      "claude-code+dashboard"
+    ],
+    "fullName": "oneles/openclaw-models-ui",
+    "url": "https://github.com/oneles/openclaw-models-ui",
+    "description": "Visual model priority manager for OpenClaw Gateway Dashboard",
+    "stars": 1,
+    "updatedAt": "2026-02-09T12:52:06Z",
+    "language": "HTML",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "openclaw+memory"
+    ],
+    "fullName": "s1nthagent/openclaw-memory",
+    "url": "https://github.com/s1nthagent/openclaw-memory",
+    "description": "Persistent memory system for OpenClaw agents - solves context loss, enables cross-session continuity",
+    "stars": 1,
+    "updatedAt": "2026-02-03T22:59:00Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "openclaw+skills",
+      "openclaw+security"
+    ],
+    "fullName": "sggolakiya/clawscan",
+    "url": "https://github.com/sggolakiya/clawscan",
+    "description": "🛡️ Security scanner for OpenClaw skills — detect malicious patterns before installing",
+    "stars": 1,
+    "updatedAt": "2026-02-10T06:23:23Z",
+    "language": "JavaScript",
+    "license": "MIT",
+    "category": "Security/Governance",
+    "score": 77
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "clawdbot-ai/awesome-openclaw-skills-zh",
+    "url": "https://github.com/clawdbot-ai/awesome-openclaw-skills-zh",
+    "description": "OpenClaw 中文官方技能库 | 翻译自 Clawdbot 官方技能，按场景分类整理，支持中文自然语言调用",
+    "stars": 402,
+    "updatedAt": "2026-02-14T14:37:56Z",
+    "language": "",
+    "license": "",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 76
+  },
+  {
+    "queryTags": [
+      "claude-code+hooks"
+    ],
+    "fullName": "hwells4/create-hooks",
+    "url": "https://github.com/hwells4/create-hooks",
+    "description": "A Claude Code plugin that takes makes it easy to build, debug, deploy and manage Claude Code hooks.",
+    "stars": 16,
+    "updatedAt": "2026-02-12T03:16:19Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Hooks/Extensions",
+    "score": 76
+  },
+  {
+    "queryTags": [
+      "openclaw+skills",
+      "openclaw+claude-code",
+      "openclaw+security"
+    ],
+    "fullName": "UseAI-pro/openclaw-skills-security",
+    "url": "https://github.com/UseAI-pro/openclaw-skills-security",
+    "description": "Curated, security-first OpenClaw skills (Markdown-based). Security audit skills - detect prompt injection, supply chain attacks, credential leaks. Works with Codex CLI, Claude Code, any LLM.",
+    "stars": 15,
+    "updatedAt": "2026-02-11T17:40:38Z",
+    "language": "JavaScript",
+    "license": "MIT",
+    "category": "Security/Governance",
+    "score": 76
+  },
+  {
+    "queryTags": [
+      "claude+notify",
+      "claude-code+hooks"
+    ],
+    "fullName": "jamez01/claude-notify",
+    "url": "https://github.com/jamez01/claude-notify",
+    "description": "A multi-os notification tool for claude code hooks",
+    "stars": 14,
+    "updatedAt": "2026-01-06T01:08:22Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 75
+  },
+  {
+    "queryTags": [
+      "claude-code+hooks"
+    ],
+    "fullName": "giginet/ClaudeHookKit",
+    "url": "https://github.com/giginet/ClaudeHookKit",
+    "description": "A Swift Package to build Claude Code hook script",
+    "stars": 13,
+    "updatedAt": "2026-02-07T14:37:33Z",
+    "language": "Swift",
+    "license": "MIT",
+    "category": "Hooks/Extensions",
+    "score": 75
+  },
+  {
+    "queryTags": [
+      "openclaw+memory"
+    ],
+    "fullName": "jzOcb/openclaw-memory-management",
+    "url": "https://github.com/jzOcb/openclaw-memory-management",
+    "description": "AI Agent 记忆管理系统：P0/P1/P2 优先级 + 自动归档，Token 降 78%",
+    "stars": 11,
+    "updatedAt": "2026-02-13T22:32:41Z",
+    "language": "Python",
+    "license": "",
+    "category": "Memory/Knowledge",
+    "score": 75
+  },
+  {
+    "queryTags": [
+      "openclaw+mcp",
+      "openclaw+memory"
+    ],
+    "fullName": "liuhao6741/openclaw-memory",
+    "url": "https://github.com/liuhao6741/openclaw-memory",
+    "description": "OpenClaw Memory is a lightweight, AI-agent-focused memory server implementing the Memory Communication Protocol (MCP). It is built on the principle that “Markdown is the single source of truth,” prioritizing human readability, version control friendliness, and zero external dependencies.",
+    "stars": 3,
+    "updatedAt": "2026-02-12T10:15:34Z",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "category": "Memory/Knowledge",
+    "score": 75
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "claude-code+dashboard"
+    ],
+    "fullName": "brian-mwirigi/codesession-cli",
+    "url": "https://github.com/brian-mwirigi/codesession-cli",
+    "description": "Track what your AI agents actually cost — files, commits, tokens, budgets. CLI , Dashboard+ API. Works with OpenClaw, Claude Code, and any agent framework.",
+    "stars": 2,
+    "updatedAt": "2026-02-14T14:47:08Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 75
+  },
+  {
+    "queryTags": [
+      "openclaw+mcp",
+      "openclaw+security"
+    ],
+    "fullName": "SentryFlow-Labs/SentryFlow-Labs",
+    "url": "https://github.com/SentryFlow-Labs/SentryFlow-Labs",
+    "description": "Premium Sanitization API for Autonomous Agents. Eliminates Agentic Debt and blocks \"Satanic\" Prompt Injections for $1/call. Optimized for OpenClaw & MCP.",
+    "stars": 1,
+    "updatedAt": "2026-02-14T06:29:36Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Security/Governance",
+    "score": 75
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway",
+      "claude-code+dashboard"
+    ],
+    "fullName": "jskoiz/mc-dashboard",
+    "url": "https://github.com/jskoiz/mc-dashboard",
+    "description": "Mission Control dashboard (article-style) wired to OpenClaw gateway.",
+    "stars": 0,
+    "updatedAt": "2026-02-07T08:59:18Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 75
+  },
+  {
+    "queryTags": [
+      "claude-code+hooks"
+    ],
+    "fullName": "gabriel-dehan/claude_hooks",
+    "url": "https://github.com/gabriel-dehan/claude_hooks",
+    "description": "A Ruby DSL for creating Claude Code hooks",
+    "stars": 31,
+    "updatedAt": "2026-02-13T15:02:13Z",
+    "language": "Ruby",
+    "license": "",
+    "category": "Hooks/Extensions",
+    "score": 74
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "IanShaw027/wemp-operator",
+    "url": "https://github.com/IanShaw027/wemp-operator",
+    "description": "WeChat public account automation OpenClaw Skill - content collection, data analysis, interaction management",
+    "stars": 16,
+    "updatedAt": "2026-02-13T06:44:58Z",
+    "language": "JavaScript",
+    "license": "MIT",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 74
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "MetaMask/openclaw-skills",
+    "url": "https://github.com/MetaMask/openclaw-skills",
+    "description": "A collection of skills for OpenClaw agents, with implementations and integrations across the MetaMask ecosystem.",
+    "stars": 10,
+    "updatedAt": "2026-02-13T12:14:21Z",
+    "language": "Shell",
+    "license": "MIT",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 74
+  },
+  {
+    "queryTags": [
+      "openclaw+security"
+    ],
+    "fullName": "Aembit/agentic-ai-security-starter-kit",
+    "url": "https://github.com/Aembit/agentic-ai-security-starter-kit",
+    "description": "Working code examples to defend against Agentic AI threats: prompt injection detection, Claude Code hooks, OPA policies, and sandbox configs. Copy-paste ready, MIT licensed.",
+    "stars": 8,
+    "updatedAt": "2026-02-13T19:11:14Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Security/Governance",
+    "score": 74
+  },
+  {
+    "queryTags": [
+      "claude-code+hooks",
+      "openclaw+claude-code"
+    ],
+    "fullName": "smykla-skalski/klaudiush",
+    "url": "https://github.com/smykla-skalski/klaudiush",
+    "description": "A validation dispatcher for Claude Code hooks that enforces git workflow standards, commit message conventions, and code quality rules",
+    "stars": 7,
+    "updatedAt": "2026-02-12T08:36:13Z",
+    "language": "Go",
+    "license": "MIT",
+    "category": "Hooks/Extensions",
+    "score": 74
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "openclaw+gateway",
+      "claude+notify",
+      "claude-code+dashboard"
+    ],
+    "fullName": "mistermakeithappen/openclaw-gateway-monitor",
+    "url": "https://github.com/mistermakeithappen/openclaw-gateway-monitor",
+    "description": "Automatic self-healing for OpenClaw gateway with Claude Code auto-repair and iMessage alerts",
+    "stars": 0,
+    "updatedAt": "2026-02-13T17:04:14Z",
+    "language": "Shell",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 74
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway",
+      "claude-code+dashboard"
+    ],
+    "fullName": "Yash-Kavaiya/openclaw-watchdog",
+    "url": "https://github.com/Yash-Kavaiya/openclaw-watchdog",
+    "description": "Automated Windows service monitor that keeps OpenClaw Gateway running with auto-restart on failure",
+    "stars": 0,
+    "updatedAt": "2026-02-07T13:25:15Z",
+    "language": "PowerShell",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 74
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway",
+      "claude-code+dashboard"
+    ],
+    "fullName": "darland6/OpenClawWatcher",
+    "url": "https://github.com/darland6/OpenClawWatcher",
+    "description": "Native macOS menu bar app to monitor and control OpenClaw gateway",
+    "stars": 0,
+    "updatedAt": "2026-02-10T04:03:36Z",
+    "language": "Swift",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 74
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway",
+      "openclaw+security",
+      "claude-code+dashboard"
+    ],
+    "fullName": "ibadukefan/openclaw-watchdog",
+    "url": "https://github.com/ibadukefan/openclaw-watchdog",
+    "description": "🐕 The ultimate guardian for your OpenClaw gateway. Proactive monitoring, automatic recovery, menu bar app.",
+    "stars": 0,
+    "updatedAt": "2026-02-07T02:02:56Z",
+    "language": "Shell",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 74
+  },
+  {
+    "queryTags": [
+      "openclaw+memory"
+    ],
+    "fullName": "AtlasPA/openclaw-memory",
+    "url": "https://github.com/AtlasPA/openclaw-memory",
+    "description": "Persistent memory system for OpenClaw agents with semantic search and x402 payments",
+    "stars": 0,
+    "updatedAt": "2026-02-13T18:36:55Z",
+    "language": "JavaScript",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 74
+  },
+  {
+    "queryTags": [
+      "openclaw+skills",
+      "openclaw+security"
+    ],
+    "fullName": "OmarAtieh/openclaw-security-audit",
+    "url": "https://github.com/OmarAtieh/openclaw-security-audit",
+    "description": "Security scanner for OpenClaw/Clawdbot installations — misconfigs, exposed secrets, malicious skills, IOC detection",
+    "stars": 0,
+    "updatedAt": "2026-02-10T00:53:46Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Security/Governance",
+    "score": 74
+  },
+  {
+    "queryTags": [
+      "openclaw+memory"
+    ],
+    "fullName": "Serrcrypto/openclaw-memory-system",
+    "url": "https://github.com/Serrcrypto/openclaw-memory-system",
+    "description": "Lightweight file-based memory system for AI assistants that learn from you",
+    "stars": 0,
+    "updatedAt": "2026-02-09T21:01:15Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 74
+  },
+  {
+    "queryTags": [
+      "openclaw+memory"
+    ],
+    "fullName": "tony-openclaw/openclaw-memory-system",
+    "url": "https://github.com/tony-openclaw/openclaw-memory-system",
+    "description": "OpenClaw Memory System - 100% file-based intelligent memory management",
+    "stars": 0,
+    "updatedAt": "2026-02-10T15:28:24Z",
+    "language": "JavaScript",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 74
+  },
+  {
+    "queryTags": [
+      "claude-code+hooks"
+    ],
+    "fullName": "Dicklesworthstone/post_compact_reminder",
+    "url": "https://github.com/Dicklesworthstone/post_compact_reminder",
+    "description": "Claude Code hook that detects context compaction and injects a reminder to re-read AGENTS.md, preventing post-compaction rule amnesia in long sessions",
+    "stars": 17,
+    "updatedAt": "2026-02-13T01:48:47Z",
+    "language": "Shell",
+    "license": "",
+    "category": "Hooks/Extensions",
+    "score": 73
+  },
+  {
+    "queryTags": [
+      "claude-code+tmux",
+      "openclaw+claude-code"
+    ],
+    "fullName": "webdevtodayjason/splitmind",
+    "url": "https://github.com/webdevtodayjason/splitmind",
+    "description": "SplitMind is a self-spawning team of AI coders using Claude Code, Tmux sessions, and Git worktrees.",
+    "stars": 14,
+    "updatedAt": "2026-01-17T16:50:29Z",
+    "language": "Python",
+    "license": "",
+    "category": "Orchestration",
+    "score": 73
+  },
+  {
+    "queryTags": [
+      "openclaw+skills",
+      "openclaw+security"
+    ],
+    "fullName": "PaoloRollo/openclaw-sec",
+    "url": "https://github.com/PaoloRollo/openclaw-sec",
+    "description": "OpenClaw security skill to protect your bot from various vulnerabilities.",
+    "stars": 7,
+    "updatedAt": "2026-02-10T01:57:56Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Security/Governance",
+    "score": 73
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "joinmassive/clawpod",
+    "url": "https://github.com/joinmassive/clawpod",
+    "description": "OpenClaw skill that works with Massive proxy network",
+    "stars": 36,
+    "updatedAt": "2026-02-14T14:38:31Z",
+    "language": "",
+    "license": "",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 72
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "jackculpan/flightclaw",
+    "url": "https://github.com/jackculpan/flightclaw",
+    "description": "Track flight prices from Google Flights with this OpenClaw skill. Search routes, monitor prices, and get alerts when prices drop.",
+    "stars": 16,
+    "updatedAt": "2026-02-14T04:45:55Z",
+    "language": "Python",
+    "license": "",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 72
+  },
+  {
+    "queryTags": [
+      "claude-code+hooks",
+      "openclaw+security"
+    ],
+    "fullName": "shuntaka9576/blocc",
+    "url": "https://github.com/shuntaka9576/blocc",
+    "description": "Execute multiple commands and block Claude Code Hooks by returning exit 2 with stderr on failures",
+    "stars": 13,
+    "updatedAt": "2026-01-19T19:04:50Z",
+    "language": "Go",
+    "license": "MIT",
+    "category": "Hooks/Extensions",
+    "score": 72
+  },
+  {
+    "queryTags": [
+      "claude+notify",
+      "claude-code+hooks"
+    ],
+    "fullName": "mikedotcook/claude-sounds",
+    "url": "https://github.com/mikedotcook/claude-sounds",
+    "description": "A tiny macOS menu bar app to control the volume of your Claude Code hook sounds.",
+    "stars": 9,
+    "updatedAt": "2026-02-14T00:41:55Z",
+    "language": "Swift",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 72
+  },
+  {
+    "queryTags": [
+      "openclaw+cron",
+      "openclaw+claude-code"
+    ],
+    "fullName": "natllian/clawion",
+    "url": "https://github.com/natllian/clawion",
+    "description": "Multi-agent collaboration powered by OpenClaw cron jobs and the clawion CLI.",
+    "stars": 8,
+    "updatedAt": "2026-02-14T11:03:23Z",
+    "language": "TypeScript",
+    "license": "",
+    "category": "Orchestration",
+    "score": 72
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "claude-code+hooks"
+    ],
+    "fullName": "taro-taryo/chaincrew",
+    "url": "https://github.com/taro-taryo/chaincrew",
+    "description": "Claude Code Hooks-based autonomous AI agent system",
+    "stars": 8,
+    "updatedAt": "2026-02-08T06:30:15Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Orchestration",
+    "score": 72
+  },
+  {
+    "queryTags": [
+      "openclaw+memory"
+    ],
+    "fullName": "duxiaoxiong/memu-engine-for-OpenClaw",
+    "url": "https://github.com/duxiaoxiong/memu-engine-for-OpenClaw",
+    "description": "A community OpenClaw memory plugin that wires OpenClaw sessions into the MemU engine",
+    "stars": 3,
+    "updatedAt": "2026-02-13T10:51:29Z",
+    "language": "Python",
+    "license": "Other",
+    "category": "Memory/Knowledge",
+    "score": 71
+  },
+  {
+    "queryTags": [
+      "openclaw+memory"
+    ],
+    "fullName": "rolandwonglonam/openclaw-memory-engine",
+    "url": "https://github.com/rolandwonglonam/openclaw-memory-engine",
+    "description": "基于Forma架构的灵活记忆引擎,为OpenClaw提供持久化记忆管理",
+    "stars": 3,
+    "updatedAt": "2026-02-07T01:30:03Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 71
+  },
+  {
+    "queryTags": [
+      "openclaw+skills",
+      "openclaw+security"
+    ],
+    "fullName": "innergclaw/openclaw-hard-hat",
+    "url": "https://github.com/innergclaw/openclaw-hard-hat",
+    "description": "🛡️ Safety-first scanner for OpenClaw skills. Run this BEFORE installing any skill. Detects malware, suspicious code, and security issues.",
+    "stars": 2,
+    "updatedAt": "2026-02-07T04:23:13Z",
+    "language": "JavaScript",
+    "license": "MIT",
+    "category": "Security/Governance",
+    "score": 71
+  },
+  {
+    "queryTags": [
+      "openclaw+security"
+    ],
+    "fullName": "unixsec/OpenclawSecurityHardening_linux",
+    "url": "https://github.com/unixsec/OpenclawSecurityHardening_linux",
+    "description": "Openclaw security hardening for linux",
+    "stars": 2,
+    "updatedAt": "2026-02-10T11:33:17Z",
+    "language": "Shell",
+    "license": "Apache-2.0",
+    "category": "Security/Governance",
+    "score": 71
+  },
+  {
+    "queryTags": [
+      "openclaw+security"
+    ],
+    "fullName": "unixsec/OpenclawSecurityHardening_windows",
+    "url": "https://github.com/unixsec/OpenclawSecurityHardening_windows",
+    "description": "Openclaw security hardening for windows10",
+    "stars": 2,
+    "updatedAt": "2026-02-10T11:31:47Z",
+    "language": "Batchfile",
+    "license": "Apache-2.0",
+    "category": "Security/Governance",
+    "score": 71
+  },
+  {
+    "queryTags": [
+      "openclaw+memory"
+    ],
+    "fullName": "wiziswiz/openclaw-memory-upgrade",
+    "url": "https://github.com/wiziswiz/openclaw-memory-upgrade",
+    "description": "🧠 10-component memory upgrade for OpenClaw — typing, dedup, salience decay, cross-refs, auto follow-ups, correction learning & more",
+    "stars": 2,
+    "updatedAt": "2026-02-13T23:52:46Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 71
+  },
+  {
+    "queryTags": [
+      "openclaw+memory"
+    ],
+    "fullName": "AkashaBot/openclaw-memory-offline-sqlite-plugin",
+    "url": "https://github.com/AkashaBot/openclaw-memory-offline-sqlite-plugin",
+    "description": "External OpenClaw memory plugin backed by SQLite FTS5 + optional Ollama embeddings rerank.",
+    "stars": 1,
+    "updatedAt": "2026-02-14T13:37:47Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 71
+  },
+  {
+    "queryTags": [
+      "openclaw+security"
+    ],
+    "fullName": "Pelican0126/-openaclaw-security-check",
+    "url": "https://github.com/Pelican0126/-openaclaw-security-check",
+    "description": "OpenClaw 安全巡检脚本：Gate/Inventory/APIKey 泄露审计，默认脱敏与问题摘要，支持隔离/备份删除。 OpenClaw security audit scripts: Gate/Inventory/API key leak scan, masked reports & concise findings, quarantine/backup/delete support.",
+    "stars": 1,
+    "updatedAt": "2026-02-11T14:33:48Z",
+    "language": "Shell",
+    "license": "MIT",
+    "category": "Security/Governance",
+    "score": 71
+  },
+  {
+    "queryTags": [
+      "openclaw+skills",
+      "openclaw+memory"
+    ],
+    "fullName": "claushaas/d1-vec-cfbrowser-worker",
+    "url": "https://github.com/claushaas/d1-vec-cfbrowser-worker",
+    "description": "Worker + OpenClaw memory plugin + Cloudflare browser skill (D1 + Vectorize + CDP)",
+    "stars": 1,
+    "updatedAt": "2026-02-08T03:57:38Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 71
+  },
+  {
+    "queryTags": [
+      "claude-code+hooks"
+    ],
+    "fullName": "timoconnellaus/define-claude-code-hooks",
+    "url": "https://github.com/timoconnellaus/define-claude-code-hooks",
+    "description": "Define Claude Code hooks programmatically with TypeScript.",
+    "stars": 16,
+    "updatedAt": "2026-01-10T13:51:14Z",
+    "language": "TypeScript",
+    "license": "",
+    "category": "Hooks/Extensions",
+    "score": 70
+  },
+  {
+    "queryTags": [
+      "claude+notify",
+      "claude-code+hooks"
+    ],
+    "fullName": "adslaton/claude-notification-hooks",
+    "url": "https://github.com/adslaton/claude-notification-hooks",
+    "description": "Audio and TTS notifications for Claude Code hooks - Get spoken feedback when Claude writes files, runs commands, and more!",
+    "stars": 6,
+    "updatedAt": "2025-12-30T12:39:45Z",
+    "language": "Shell",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 70
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "Vivek0712/clawskills-strands",
+    "url": "https://github.com/Vivek0712/clawskills-strands",
+    "description": "Convert OpenClaw skills (markdown documentation) to executable Strands Agents tools",
+    "stars": 6,
+    "updatedAt": "2026-02-09T13:11:24Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Bridge/MCP",
+    "score": 70
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway",
+      "claude+notify",
+      "claude-code+dashboard"
+    ],
+    "fullName": "Abdullah4AI/openclaw-watchdog",
+    "url": "https://github.com/Abdullah4AI/openclaw-watchdog",
+    "description": "Self-healing monitoring system for OpenClaw gateway. Auto-detects failures, fixes crashes, and sends Telegram alerts.",
+    "stars": 3,
+    "updatedAt": "2026-02-11T19:39:47Z",
+    "language": "Python",
+    "license": "",
+    "category": "Notifications/Observability",
+    "score": 70
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway",
+      "openclaw+cron",
+      "claude-code+dashboard"
+    ],
+    "fullName": "rshodoskar-star/openclaw-desktop",
+    "url": "https://github.com/rshodoskar-star/openclaw-desktop",
+    "description": "🖥️ Premium desktop client for OpenClaw Gateway — Liquid Glass UI, multi-agent management, real-time chat, cron monitoring, cost tracking & more. Built with Electron + React + TypeScript.",
+    "stars": 2,
+    "updatedAt": "2026-02-14T14:42:38Z",
+    "language": "TypeScript",
+    "license": "",
+    "category": "Orchestration",
+    "score": 70
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway"
+    ],
+    "fullName": "AdamPippert/Lobstertank",
+    "url": "https://github.com/AdamPippert/Lobstertank",
+    "description": "Orchestrator for multiple openclaw gateways",
+    "stars": 1,
+    "updatedAt": "2026-02-03T17:58:20Z",
+    "language": "Go",
+    "license": "",
+    "category": "Orchestration",
+    "score": 70
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway",
+      "claude-code+dashboard"
+    ],
+    "fullName": "ChrisJohnson89/clawboard",
+    "url": "https://github.com/ChrisJohnson89/clawboard",
+    "description": "Local-first dashboard for OpenClaw (gateway + filesystem) with live SSE updates.",
+    "stars": 1,
+    "updatedAt": "2026-02-11T03:16:31Z",
+    "language": "Python",
+    "license": "",
+    "category": "Notifications/Observability",
+    "score": 70
+  },
+  {
+    "queryTags": [
+      "openclaw+mcp"
+    ],
+    "fullName": "8421bit/MiniClaw",
+    "url": "https://github.com/8421bit/MiniClaw",
+    "description": "MiniClaw: Enable Your AI Copilot Act Smart Like OpenClaw. MCP for Claude CoWork, Qoderwork, WorkBuddy, OpenWork etc.",
+    "stars": 7,
+    "updatedAt": "2026-02-14T06:00:16Z",
+    "language": "TypeScript",
+    "license": "",
+    "category": "Bridge/MCP",
+    "score": 69
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway",
+      "claude-code+dashboard"
+    ],
+    "fullName": "DILOmcfly/clitool",
+    "url": "https://github.com/DILOmcfly/clitool",
+    "description": "📡 Monitor your OpenClaw gateway — session stats, model info, uptime. Terminal dashboard for your AI agent.",
+    "stars": 0,
+    "updatedAt": "2026-01-31T13:20:37Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 69
+  },
+  {
+    "queryTags": [
+      "claude+notify",
+      "claude-code+hooks"
+    ],
+    "fullName": "htjun/claude-code-hooks-scv-sounds",
+    "url": "https://github.com/htjun/claude-code-hooks-scv-sounds",
+    "description": "Claude Code hooks setup with StarCraft SCV sounds.",
+    "stars": 37,
+    "updatedAt": "2026-02-10T17:02:34Z",
+    "language": "",
+    "license": "",
+    "category": "Notifications/Observability",
+    "score": 68
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code"
+    ],
+    "fullName": "tomerb3/clawders",
+    "url": "https://github.com/tomerb3/clawders",
+    "description": "openclaw, claude-code, claude-cowork",
+    "stars": 17,
+    "updatedAt": "2026-02-13T14:17:54Z",
+    "language": "Go",
+    "license": "",
+    "category": "Orchestration",
+    "score": 68
+  },
+  {
+    "queryTags": [
+      "openclaw+skills"
+    ],
+    "fullName": "coolishagent/lobstalk",
+    "url": "https://github.com/coolishagent/lobstalk",
+    "description": "OpenClaw Skill: Agent group chat on Telegram",
+    "stars": 12,
+    "updatedAt": "2026-02-13T12:14:21Z",
+    "language": "",
+    "license": "",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 68
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "openclaw+mcp",
+      "openclaw+gateway"
+    ],
+    "fullName": "Helms-AI/openclaw-mcp-server",
+    "url": "https://github.com/Helms-AI/openclaw-mcp-server",
+    "description": "MCP server exposing OpenClaw Gateway tools to Claude Code and other MCP-compatible clients",
+    "stars": 1,
+    "updatedAt": "2026-02-08T16:42:57Z",
+    "language": "JavaScript",
+    "license": "",
+    "category": "Bridge/MCP",
+    "score": 68
+  },
+  {
+    "queryTags": [
+      "openclaw+memory"
+    ],
+    "fullName": "ClaireAICodes/openclaw-memory-sync",
+    "url": "https://github.com/ClaireAICodes/openclaw-memory-sync",
+    "description": "Sync OpenClaw memory files to Notion Knowledge Base.",
+    "stars": 0,
+    "updatedAt": "2026-02-14T06:52:50Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 68
+  },
+  {
+    "queryTags": [
+      "openclaw+skills",
+      "openclaw+security"
+    ],
+    "fullName": "MarcusGraetsch/vps-openclaw-security-hardening",
+    "url": "https://github.com/MarcusGraetsch/vps-openclaw-security-hardening",
+    "description": "A skill to make your VPS/VM/MacMini/LocalServer more secure using OpenClaw AI Agent itself.  ",
+    "stars": 0,
+    "updatedAt": "2026-02-10T18:01:16Z",
+    "language": "Shell",
+    "license": "MIT",
+    "category": "Security/Governance",
+    "score": 68
+  },
+  {
+    "queryTags": [
+      "openclaw+memory"
+    ],
+    "fullName": "auriwren/openclaw-semantic-search",
+    "url": "https://github.com/auriwren/openclaw-semantic-search",
+    "description": "Hybrid semantic + keyword search for OpenClaw memory files",
+    "stars": 0,
+    "updatedAt": "2026-02-08T03:21:51Z",
+    "language": "JavaScript",
+    "license": "MIT",
+    "category": "Memory/Knowledge",
+    "score": 68
+  },
+  {
+    "queryTags": [
+      "openclaw+security"
+    ],
+    "fullName": "topazyo/openclaw-security-playbook",
+    "url": "https://github.com/topazyo/openclaw-security-playbook",
+    "description": "Production-ready security playbook for AI agent deployments. Addresses backup file persistence, authentication bypass, and prompt injection vulnerabilities. Integrates openclaw-detect, openclaw-telemetry, openclaw-shield, and clawguard.",
+    "stars": 0,
+    "updatedAt": "2026-02-14T01:16:37Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Security/Governance",
+    "score": 68
+  },
+  {
+    "queryTags": [
+      "openclaw+mcp"
+    ],
+    "fullName": "lunarpulse/openclaw-mcp-plugin",
+    "url": "https://github.com/lunarpulse/openclaw-mcp-plugin",
+    "description": "openclaw-mcp-plugin enables using mcp, remote streamable http",
+    "stars": 7,
+    "updatedAt": "2026-02-14T06:50:42Z",
+    "language": "JavaScript",
+    "license": "",
+    "category": "Bridge/MCP",
+    "score": 67
+  },
+  {
+    "queryTags": [
+      "openclaw+skills",
+      "openclaw+claude-code"
+    ],
+    "fullName": "legendaryabhi/agent-skills-hub",
+    "url": "https://github.com/legendaryabhi/agent-skills-hub",
+    "description": "Agent Skills Hub is a global library of AI agent skills that work across OpenClaw, Claude Code, Gemini, Cursor, Antigravity, and more.",
+    "stars": 3,
+    "updatedAt": "2026-02-10T15:32:15Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 67
+  },
+  {
+    "queryTags": [
+      "openclaw+claude-code",
+      "claude-code+tmux",
+      "claude-code+dashboard"
+    ],
+    "fullName": "jdickey1/dashboard",
+    "url": "https://github.com/jdickey1/dashboard",
+    "description": "Mission control for Claude Code tmux sessions",
+    "stars": 0,
+    "updatedAt": "2026-01-11T22:00:29Z",
+    "language": "Shell",
+    "license": "MIT",
+    "category": "Orchestration",
+    "score": 67
+  },
+  {
+    "queryTags": [
+      "claude+notify",
+      "claude-code+hooks"
+    ],
+    "fullName": "kyujin-cho/claude-code-remote",
+    "url": "https://github.com/kyujin-cho/claude-code-remote",
+    "description": "Claude Code hook & Telegram Bot to notify user about active CC permission request and receive the decision via Telegram bot.",
+    "stars": 5,
+    "updatedAt": "2026-01-20T16:35:33Z",
+    "language": "Rust",
+    "license": "",
+    "category": "Notifications/Observability",
+    "score": 66
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway"
+    ],
+    "fullName": "umico8832/openclaw_auto_restart",
+    "url": "https://github.com/umico8832/openclaw_auto_restart",
+    "description": "一个用于 macOS 的 OpenClaw Gateway 看门狗脚本：检测 Clash/TUN 网络状态、端口僵死 与 日志致命错误，自动停止/重启 openclaw gateway，并进行简单的日志轮转，提升长期运行稳定性。",
+    "stars": 3,
+    "updatedAt": "2026-02-13T07:54:18Z",
+    "language": "Shell",
+    "license": "MIT",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 63
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway"
+    ],
+    "fullName": "loserbcc/openclaw-gateway",
+    "url": "https://github.com/loserbcc/openclaw-gateway",
+    "description": "Open-source WSS gateway for connecting phones to moltbots. Speaks OpenClaw v3 protocol.",
+    "stars": 2,
+    "updatedAt": "2026-02-08T22:21:10Z",
+    "language": "Python",
+    "license": "MIT",
+    "category": "Bridge/MCP",
+    "score": 63
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway",
+      "claude+notify"
+    ],
+    "fullName": "kyaukyuai/openclaw-voice",
+    "url": "https://github.com/kyaukyuai/openclaw-voice",
+    "description": "Voice client for OpenClaw Gateway: hold to record, edit transcript, send, and view streaming responses.",
+    "stars": 1,
+    "updatedAt": "2026-02-10T12:44:38Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "Notifications/Observability",
+    "score": 63
+  },
+  {
+    "queryTags": [
+      "openclaw+gateway"
+    ],
+    "fullName": "raw34/openclaw-webchat",
+    "url": "https://github.com/raw34/openclaw-webchat",
+    "description": "Embeddable WebChat SDK for OpenClaw Gateway",
+    "stars": 1,
+    "updatedAt": "2026-02-14T10:32:43Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "category": "OpenClaw Skills/Integrations",
+    "score": 63
+  }
+]

@@ -1,0 +1,6099 @@
+[
+  {
+    "description": "Claude Code dashboard with usage stats, error analysis, and sharable feature",
+    "fullName": "chiphuyen/sniffly",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1138,
+    "updatedAt": "2026-02-14T14:28:37Z",
+    "url": "https://github.com/chiphuyen/sniffly"
+  },
+  {
+    "description": "Dashboard for tracking Claude Code API usage with USD/JPY conversion",
+    "fullName": "m-sigepon/ClaudeCode_Dashboard",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 17,
+    "updatedAt": "2026-02-10T16:00:08Z",
+    "url": "https://github.com/m-sigepon/ClaudeCode_Dashboard"
+  },
+  {
+    "description": "Monitor claude code analytics.",
+    "fullName": "tanu360/claude-code-dashboard",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 7,
+    "updatedAt": "2026-01-04T05:47:55Z",
+    "url": "https://github.com/tanu360/claude-code-dashboard"
+  },
+  {
+    "description": "A local dashboard monitoring Claude Code sessions and subagents",
+    "fullName": "yigong-yg/claude-code-dashboard",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-03T12:24:07Z",
+    "url": "https://github.com/yigong-yg/claude-code-dashboard"
+  },
+  {
+    "description": "",
+    "fullName": "amasiukevich/claude-code-dashboard-demo",
+    "language": "Jupyter Notebook",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-11T13:23:23Z",
+    "url": "https://github.com/amasiukevich/claude-code-dashboard-demo"
+  },
+  {
+    "description": "Open source Claude Code dashboard — coming soon",
+    "fullName": "josharsh/openclaudecto",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-14T06:37:12Z",
+    "url": "https://github.com/josharsh/openclaudecto"
+  },
+  {
+    "description": "Claude Code Dashboard",
+    "fullName": "Attilio81/ClaudeCodeDashboard",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-01-22T13:10:57Z",
+    "url": "https://github.com/Attilio81/ClaudeCodeDashboard"
+  },
+  {
+    "description": "Claude Code Usage Dashboard - チーム全体の利用状況を一目で把握",
+    "fullName": "UC5454/claude-code-dashboard",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T15:15:35Z",
+    "url": "https://github.com/UC5454/claude-code-dashboard"
+  },
+  {
+    "description": "Web manager of claude code",
+    "fullName": "carzygod/claude_code_dashboard",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-01T07:17:33Z",
+    "url": "https://github.com/carzygod/claude_code_dashboard"
+  },
+  {
+    "description": "",
+    "fullName": "woutervhaaften/claude-code-dashboard",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2025-12-30T09:26:42Z",
+    "url": "https://github.com/woutervhaaften/claude-code-dashboard"
+  },
+  {
+    "description": "A personal analytics dashboard that visualizes usage patterns for [Claude Code](https://claude.ai/code) - Anthropic's CLI tool. Similar to GitHub's \"Year in Review\" or Spotify Wrapped, it provides insights into your coding sessions, token usage, and costs.",
+    "fullName": "shawn-dsz/claude-code-dashboard",
+    "language": "HTML",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-12T01:27:23Z",
+    "url": "https://github.com/shawn-dsz/claude-code-dashboard"
+  },
+  {
+    "description": "",
+    "fullName": "gbrca/claude-code-dashboard",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2025-11-10T20:06:14Z",
+    "url": "https://github.com/gbrca/claude-code-dashboard"
+  },
+  {
+    "description": "A Next.js dashboard integrating Figma designs with Claude AI",
+    "fullName": "JRomeoSalazar/figma-claude-code-dashboard",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2025-11-03T18:39:17Z",
+    "url": "https://github.com/JRomeoSalazar/figma-claude-code-dashboard"
+  },
+  {
+    "description": "Claude Code dashboard with usage stats, error analysis, and sharable feature",
+    "fullName": "Dopular/sniffly",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2025-12-24T09:42:08Z",
+    "url": "https://github.com/Dopular/sniffly"
+  },
+  {
+    "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.",
+    "fullName": "parcadei/Continuous-Claude-v3",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 3510,
+    "updatedAt": "2026-02-14T11:59:55Z",
+    "url": "https://github.com/parcadei/Continuous-Claude-v3"
+  },
+  {
+    "description": "Master Claude Code Hooks",
+    "fullName": "disler/claude-code-hooks-mastery",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 3030,
+    "updatedAt": "2026-02-14T09:03:16Z",
+    "url": "https://github.com/disler/claude-code-hooks-mastery"
+  },
+  {
+    "description": "Real-time monitoring for Claude Code agents through simple hook event tracking.",
+    "fullName": "disler/claude-code-hooks-multi-agent-observability",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1111,
+    "updatedAt": "2026-02-14T14:39:09Z",
+    "url": "https://github.com/disler/claude-code-hooks-multi-agent-observability"
+  },
+  {
+    "description": "Build mods for Claude Code: Hook any request, modify any response, /model \"with-your-custom-model\", intelligent model routing using your logic or ours",
+    "fullName": "starbaser/ccproxy",
+    "language": "Python",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "url": ""
+    },
+    "stargazersCount": 168,
+    "updatedAt": "2026-02-14T12:30:02Z",
+    "url": "https://github.com/starbaser/ccproxy"
+  },
+  {
+    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize.",
+    "fullName": "karanb192/claude-code-hooks",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 141,
+    "updatedAt": "2026-02-14T13:22:16Z",
+    "url": "https://github.com/karanb192/claude-code-hooks"
+  },
+  {
+    "description": "A Python SDK for claude-code hooks",
+    "fullName": "GowayLee/cchooks",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 116,
+    "updatedAt": "2026-02-13T12:44:17Z",
+    "url": "https://github.com/GowayLee/cchooks"
+  },
+  {
+    "description": "",
+    "fullName": "win4r/claude-code-hooks",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 75,
+    "updatedAt": "2026-02-14T11:24:50Z",
+    "url": "https://github.com/win4r/claude-code-hooks"
+  },
+  {
+    "description": "Claude Code Hooks Manager for managing Hooks in Claude Code via CLI.",
+    "fullName": "webdevtodayjason/claude-hooks",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 74,
+    "updatedAt": "2026-01-12T23:22:14Z",
+    "url": "https://github.com/webdevtodayjason/claude-hooks"
+  },
+  {
+    "description": "A first attempt of gathering awesome Claude Code hooks in one place, so we can all benefit. Please feel free to open an issue or a PR and add your own gusto.",
+    "fullName": "pascalporedda/awesome-claude-code",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 68,
+    "updatedAt": "2026-02-13T11:26:08Z",
+    "url": "https://github.com/pascalporedda/awesome-claude-code"
+  },
+  {
+    "description": "A PHP SDK for building Claude Code hooks",
+    "fullName": "beyondcode/claude-hooks-sdk",
+    "language": "PHP",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 61,
+    "updatedAt": "2026-02-13T00:01:49Z",
+    "url": "https://github.com/beyondcode/claude-hooks-sdk"
+  },
+  {
+    "description": "AI-powered file organization and context engineering that understands content, not patterns. Automatically sorts temporary scripts from permanent docs while   preserving your workflow. Works seamlessly with Claude Code hooks. Protects README, LICENSE, configs.",
+    "fullName": "ramakay/claude-organizer",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 59,
+    "updatedAt": "2026-01-28T19:14:00Z",
+    "url": "https://github.com/ramakay/claude-organizer"
+  },
+  {
+    "description": "Claude Code hooks setup with StarCraft SCV sounds.",
+    "fullName": "htjun/claude-code-hooks-scv-sounds",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 37,
+    "updatedAt": "2026-02-10T17:02:34Z",
+    "url": "https://github.com/htjun/claude-code-hooks-scv-sounds"
+  },
+  {
+    "description": "A Ruby DSL for creating Claude Code hooks",
+    "fullName": "gabriel-dehan/claude_hooks",
+    "language": "Ruby",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 31,
+    "updatedAt": "2026-02-13T15:02:13Z",
+    "url": "https://github.com/gabriel-dehan/claude_hooks"
+  },
+  {
+    "description": "Define Claude Code hooks with full type safety.",
+    "fullName": "sushichan044/cc-hooks-ts",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 31,
+    "updatedAt": "2026-02-14T08:40:50Z",
+    "url": "https://github.com/sushichan044/cc-hooks-ts"
+  },
+  {
+    "description": "Madame Claude is a monitoring system for Claude Code hooks that captures and streams tool usage events to a web interface.",
+    "fullName": "williamkapke/MadameClaude",
+    "language": "HTML",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 21,
+    "updatedAt": "2026-01-26T01:38:20Z",
+    "url": "https://github.com/williamkapke/MadameClaude"
+  },
+  {
+    "description": "",
+    "fullName": "meloncafe/claude-code-hooks",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 18,
+    "updatedAt": "2026-02-14T12:28:34Z",
+    "url": "https://github.com/meloncafe/claude-code-hooks"
+  },
+  {
+    "description": "Transform natural language project rules into Claude Code hooks effortlessly with claudecode-rule2hook. Automate your workflows with ease! 🚀🪝",
+    "fullName": "astrodragonv/claudecode-rule2hook",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 17,
+    "updatedAt": "2026-02-14T15:00:10Z",
+    "url": "https://github.com/astrodragonv/claudecode-rule2hook"
+  },
+  {
+    "description": "Claude Code hook that detects context compaction and injects a reminder to re-read AGENTS.md, preventing post-compaction rule amnesia in long sessions",
+    "fullName": "Dicklesworthstone/post_compact_reminder",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 17,
+    "updatedAt": "2026-02-13T01:48:47Z",
+    "url": "https://github.com/Dicklesworthstone/post_compact_reminder"
+  },
+  {
+    "description": "A Claude Code plugin that takes makes it easy to build, debug, deploy and manage Claude Code hooks.",
+    "fullName": "hwells4/create-hooks",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 16,
+    "updatedAt": "2026-02-12T03:16:19Z",
+    "url": "https://github.com/hwells4/create-hooks"
+  },
+  {
+    "description": "",
+    "fullName": "timoconnellaus/define-claude-code-hooks",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 16,
+    "updatedAt": "2026-01-10T13:51:14Z",
+    "url": "https://github.com/timoconnellaus/define-claude-code-hooks"
+  },
+  {
+    "description": "A multi-os notification tool for claude code hooks",
+    "fullName": "jamez01/claude-notify",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 14,
+    "updatedAt": "2026-01-06T01:08:22Z",
+    "url": "https://github.com/jamez01/claude-notify"
+  },
+  {
+    "description": "🪝 A Swift Package to build Claude Code hook script",
+    "fullName": "giginet/ClaudeHookKit",
+    "language": "Swift",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 13,
+    "updatedAt": "2026-02-07T14:37:33Z",
+    "url": "https://github.com/giginet/ClaudeHookKit"
+  },
+  {
+    "description": "Execute multiple commands and block Claude Code Hooks by returning exit 2 with stderr on failures 🛡️",
+    "fullName": "shuntaka9576/blocc",
+    "language": "Go",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 13,
+    "updatedAt": "2026-01-19T19:04:50Z",
+    "url": "https://github.com/shuntaka9576/blocc"
+  },
+  {
+    "description": "使用教程",
+    "fullName": "BND-1/claude-code-hooks-notification",
+    "language": "PowerShell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 11,
+    "updatedAt": "2026-02-09T11:12:19Z",
+    "url": "https://github.com/BND-1/claude-code-hooks-notification"
+  },
+  {
+    "description": "A tiny macOS menu bar app to control the volume of your Claude Code hook sounds.",
+    "fullName": "mikedotcook/claude-sounds",
+    "language": "Swift",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 9,
+    "updatedAt": "2026-02-14T00:41:55Z",
+    "url": "https://github.com/mikedotcook/claude-sounds"
+  },
+  {
+    "description": "Claude Code Hooks-based autonomous AI agent system",
+    "fullName": "taro-taryo/chaincrew",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 8,
+    "updatedAt": "2026-02-08T06:30:15Z",
+    "url": "https://github.com/taro-taryo/chaincrew"
+  },
+  {
+    "description": "Let's get voice feedback with claude code hooks",
+    "fullName": "channprj/claude-code-voice",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 8,
+    "updatedAt": "2025-09-17T09:20:40Z",
+    "url": "https://github.com/channprj/claude-code-voice"
+  },
+  {
+    "description": "Working code examples to defend against Agentic AI threats: prompt injection detection, Claude Code hooks, OPA policies, and sandbox configs. Copy-paste ready, MIT licensed.",
+    "fullName": "Aembit/agentic-ai-security-starter-kit",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 8,
+    "updatedAt": "2026-02-13T19:11:14Z",
+    "url": "https://github.com/Aembit/agentic-ai-security-starter-kit"
+  },
+  {
+    "description": "A validation dispatcher for Claude Code hooks that enforces git workflow standards, commit message conventions, and code quality rules",
+    "fullName": "smykla-skalski/klaudiush",
+    "language": "Go",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 7,
+    "updatedAt": "2026-02-12T08:36:13Z",
+    "url": "https://github.com/smykla-skalski/klaudiush"
+  },
+  {
+    "description": "Powerful hooks for Claude Code: safety guardrails, auto-formatting, skill activation, session context, and change tracking",
+    "fullName": "maxkelley23/claude-code-hooks",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 7,
+    "updatedAt": "2026-02-08T03:48:24Z",
+    "url": "https://github.com/maxkelley23/claude-code-hooks"
+  },
+  {
+    "description": "Claude Code Hooks提示音系统 - 通过声音反馈感知AI工具执行状态",
+    "fullName": "PCPrincipal67/claude-code-hooks-sound-system",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 7,
+    "updatedAt": "2026-02-05T04:00:46Z",
+    "url": "https://github.com/PCPrincipal67/claude-code-hooks-sound-system"
+  },
+  {
+    "description": "A battle-tested framework for building production-ready code with AI coding agents. TypeScript/React focused. Biome, Knip, Stryker, Lefthook, Claude Code hooks.",
+    "fullName": "0xUXDesign/ai-code-quality-framework",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 7,
+    "updatedAt": "2026-02-13T16:10:02Z",
+    "url": "https://github.com/0xUXDesign/ai-code-quality-framework"
+  },
+  {
+    "description": "Anthropic's Claude Code hooks in Rust",
+    "fullName": "tenxhq/tenx-hooks",
+    "language": "Rust",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 6,
+    "updatedAt": "2025-08-10T13:40:15Z",
+    "url": "https://github.com/tenxhq/tenx-hooks"
+  },
+  {
+    "description": "Claude Code Hooks 完整指南",
+    "fullName": "aliceric27/claude-code-hooks",
+    "language": "HTML",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 6,
+    "updatedAt": "2026-01-04T06:52:23Z",
+    "url": "https://github.com/aliceric27/claude-code-hooks"
+  },
+  {
+    "description": "A saga framework for writing claude code hooks",
+    "fullName": "listfold/claude-saga",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 6,
+    "updatedAt": "2026-01-25T02:14:03Z",
+    "url": "https://github.com/listfold/claude-saga"
+  },
+  {
+    "description": "🔊 Audio and TTS notifications for Claude Code hooks - Get spoken feedback when Claude writes files, runs commands, and more!",
+    "fullName": "adslaton/claude-notification-hooks",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 6,
+    "updatedAt": "2025-12-30T12:39:45Z",
+    "url": "https://github.com/adslaton/claude-notification-hooks"
+  },
+  {
+    "description": "Claude Code hooks that talk",
+    "fullName": "swapnildahiphale/claude-code-jarvis-hooks",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 5,
+    "updatedAt": "2025-10-10T17:07:21Z",
+    "url": "https://github.com/swapnildahiphale/claude-code-jarvis-hooks"
+  },
+  {
+    "description": "A collection of useful hooks for Claude Code to enhance development workflow",
+    "fullName": "EvanL1/claude-code-hooks",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 5,
+    "updatedAt": "2026-02-10T11:18:05Z",
+    "url": "https://github.com/EvanL1/claude-code-hooks"
+  },
+  {
+    "description": "Real-time observability for Claude Code agents with hook event tracking. Monitor multiple agents and visualize data seamlessly. 🌐🚀",
+    "fullName": "toomas-tt/claude-code-hooks-multi-agent-observability",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 5,
+    "updatedAt": "2026-02-14T15:00:39Z",
+    "url": "https://github.com/toomas-tt/claude-code-hooks-multi-agent-observability"
+  },
+  {
+    "description": "Claude Code hook & Telegram Bot to notify user about active CC permission request and receive the decision via Telegram bot.",
+    "fullName": "kyujin-cho/claude-code-remote",
+    "language": "Rust",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 5,
+    "updatedAt": "2026-01-20T16:35:33Z",
+    "url": "https://github.com/kyujin-cho/claude-code-remote"
+  },
+  {
+    "description": "🚀 Claude Code hook that automatically compresses JSON data by up to 60% using Toon format before sending to LLMs. Save tokens, reduce costs, same results.",
+    "fullName": "mostafamoq/tooner",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 5,
+    "updatedAt": "2025-12-14T14:30:07Z",
+    "url": "https://github.com/mostafamoq/tooner"
+  },
+  {
+    "description": "Herald your hooks with playful sound cues.",
+    "fullName": "kogitore/claude-code-hooks-herald",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 4,
+    "updatedAt": "2025-12-13T02:51:16Z",
+    "url": "https://github.com/kogitore/claude-code-hooks-herald"
+  },
+  {
+    "description": "Eyelet - Claude Code Hook Orchestration Framework",
+    "fullName": "bdmorin/eyelet",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2025-11-23T05:53:20Z",
+    "url": "https://github.com/bdmorin/eyelet"
+  },
+  {
+    "description": "Claude Code hooks to make sounds from Age of Empires",
+    "fullName": "aliparoya/age-of-claude",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-01-11T22:10:11Z",
+    "url": "https://github.com/aliparoya/age-of-claude"
+  },
+  {
+    "description": "Type-safe TypeScript SDK for building Claude Code hook extensions",
+    "fullName": "hgeldenhuys/claude-hooks-sdk",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2025-12-15T05:35:21Z",
+    "url": "https://github.com/hgeldenhuys/claude-hooks-sdk"
+  },
+  {
+    "description": "Starting Claude Code template with locally scoped hooks set up. ",
+    "fullName": "r-strawser/claude-code-hooks-template",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2025-10-10T17:01:45Z",
+    "url": "https://github.com/r-strawser/claude-code-hooks-template"
+  },
+  {
+    "description": "Library for building Claude Code hooks that are type-safe, maintainable, and shareable",
+    "fullName": "outfitter-dev/carabiner",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2025-10-21T16:38:44Z",
+    "url": "https://github.com/outfitter-dev/carabiner"
+  },
+  {
+    "description": "A Rust CLI tool that integrates Claude Code hooks with ntfy notification services",
+    "fullName": "pppobear/claude-code-ntfy-service",
+    "language": "Rust",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-10T11:18:09Z",
+    "url": "https://github.com/pppobear/claude-code-ntfy-service"
+  },
+  {
+    "description": "A Claude Code hook that captures and logs all user inputs with timestamps and session tracking",
+    "fullName": "Bucurenciu-Cristian/claude-user-input-logger",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2025-12-25T00:24:19Z",
+    "url": "https://github.com/Bucurenciu-Cristian/claude-user-input-logger"
+  },
+  {
+    "description": "A TypeScript SDK to write claude-code hooks easily with type safety, dependency injection, and comprehensive testing support.",
+    "fullName": "mizunashi-mana/claude-code-hook-sdk",
+    "language": "TypeScript",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "url": ""
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-10T11:18:02Z",
+    "url": "https://github.com/mizunashi-mana/claude-code-hook-sdk"
+  },
+  {
+    "description": "A lightweight macOS notification tool with fullscreen image overlay and audio playback. Supports multiple presets and perfect for Claude Code hooks integration. Built with native Swift.",
+    "fullName": "HankunYu/eldenRinging",
+    "language": "Swift",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2025-12-31T15:00:04Z",
+    "url": "https://github.com/HankunYu/eldenRinging"
+  },
+  {
+    "description": "Claude Code hooks collection",
+    "fullName": "MOlechowski/claude-hooks",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2025-10-10T17:07:34Z",
+    "url": "https://github.com/MOlechowski/claude-hooks"
+  },
+  {
+    "description": "Voice notification with Claude Code hooks",
+    "fullName": "tonghuikang/claude-code-voice-notif",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2025-10-10T17:04:12Z",
+    "url": "https://github.com/tonghuikang/claude-code-voice-notif"
+  },
+  {
+    "description": "Claude Code Hook: OpenAI-Powered Prompt Rewriter & Sanitizer",
+    "fullName": "varienos/cc-openai-prompt-rewriter",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2025-12-14T19:43:07Z",
+    "url": "https://github.com/varienos/cc-openai-prompt-rewriter"
+  },
+  {
+    "description": "☭ Red Alert 2 Soviet sound effects for Claude Code hooks",
+    "fullName": "tcz/claude-code-soviet-sounds",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-11T16:36:43Z",
+    "url": "https://github.com/tcz/claude-code-soviet-sounds"
+  },
+  {
+    "description": "Consumable hook implementations for Claude Code multi-agent workflows",
+    "fullName": "yemreak/claude-code-hooks",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2025-12-16T00:23:36Z",
+    "url": "https://github.com/yemreak/claude-code-hooks"
+  },
+  {
+    "description": "",
+    "fullName": "eli0shin/claude_code_hooks",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2025-07-26T08:35:59Z",
+    "url": "https://github.com/eli0shin/claude_code_hooks"
+  },
+  {
+    "description": "",
+    "fullName": "sapientpants/claude-code-hooks",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2025-10-10T17:31:12Z",
+    "url": "https://github.com/sapientpants/claude-code-hooks"
+  },
+  {
+    "description": "A collection of hooks to be used with Claude Code",
+    "fullName": "dankelleher/claude-code-hooks",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2025-10-10T17:03:36Z",
+    "url": "https://github.com/dankelleher/claude-code-hooks"
+  },
+  {
+    "description": "",
+    "fullName": "0michalsokolowski0/claude-code-hooks",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2025-10-10T17:04:33Z",
+    "url": "https://github.com/0michalsokolowski0/claude-code-hooks"
+  },
+  {
+    "description": "",
+    "fullName": "jingcheng407/claude_code_hooks_notify",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2025-08-28T09:44:35Z",
+    "url": "https://github.com/jingcheng407/claude_code_hooks_notify"
+  },
+  {
+    "description": "Add voice feedback to your Claude Code sessions!",
+    "fullName": "PingVoice/pingvoice-claude-code-hooks",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-03T13:19:00Z",
+    "url": "https://github.com/PingVoice/pingvoice-claude-code-hooks"
+  },
+  {
+    "description": "Test suite demonstrating Claude Code hooks have 0% execution rate in chat sessions",
+    "fullName": "grahama1970/claude-code-hooks-test",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-01-03T12:32:02Z",
+    "url": "https://github.com/grahama1970/claude-code-hooks-test"
+  },
+  {
+    "description": "A Claude Code hook that plays a random music snippet from a youtube music playlist when Claude finishes a task.",
+    "fullName": "dough654/music-on-done",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-12T22:06:14Z",
+    "url": "https://github.com/dough654/music-on-done"
+  },
+  {
+    "description": "Claude Code Hooks",
+    "fullName": "msadig/cc-hooks-setup",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-10-29T00:58:51Z",
+    "url": "https://github.com/msadig/cc-hooks-setup"
+  },
+  {
+    "description": "Claude Code hooks demonstration repository",
+    "fullName": "ttrip-ngs/claude-code-hooks",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-07-26T08:35:36Z",
+    "url": "https://github.com/ttrip-ngs/claude-code-hooks"
+  },
+  {
+    "description": "Claude Code HooksのSlack実装",
+    "fullName": "HosakaKeigo/claude-code-hooks-slack",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-11-04T17:57:33Z",
+    "url": "https://github.com/HosakaKeigo/claude-code-hooks-slack"
+  },
+  {
+    "description": "declarative policy enforcement for Claude Code hooks",
+    "fullName": "bioneural/hooker",
+    "language": "Ruby",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-12T15:43:59Z",
+    "url": "https://github.com/bioneural/hooker"
+  },
+  {
+    "description": "Claude Code hooks in Typescript safe ways",
+    "fullName": "lucacri/claude-code-ts-hooks",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-10-02T03:15:24Z",
+    "url": "https://github.com/lucacri/claude-code-ts-hooks"
+  },
+  {
+    "description": "CORE Memory System - Claude Code hooks observability API",
+    "fullName": "gblack686/core-memory-system",
+    "language": "TypeScript",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-02T23:59:10Z",
+    "url": "https://github.com/gblack686/core-memory-system"
+  },
+  {
+    "description": "Warcraft peon voice lines as Claude Code hook sounds",
+    "fullName": "alxmlv/claude-sounds",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-12T07:10:54Z",
+    "url": "https://github.com/alxmlv/claude-sounds"
+  },
+  {
+    "description": "Claude Code hooks for auto-surfacing project documentation during sessions",
+    "fullName": "Coldaine/claude-context-assistant",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-21T17:44:06Z",
+    "url": "https://github.com/Coldaine/claude-context-assistant"
+  },
+  {
+    "description": "Claude Code hooks management tool - 'The hook brings you back'",
+    "fullName": "klauern/blues-traveler",
+    "language": "Go",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-12-09T20:44:35Z",
+    "url": "https://github.com/klauern/blues-traveler"
+  },
+  {
+    "description": "MISSION-04: Learn Claude Code hooks by creating a safety guardian",
+    "fullName": "Soul-Brews-Studio/mission-04-hooks-challenge",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-15T12:40:15Z",
+    "url": "https://github.com/Soul-Brews-Studio/mission-04-hooks-challenge"
+  },
+  {
+    "description": "My claude-code hooks. Ironically, this code was written by hand.",
+    "fullName": "ybkimm/hooks",
+    "language": "Go",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-08-14T09:45:57Z",
+    "url": "https://github.com/ybkimm/hooks"
+  },
+  {
+    "description": "Claude Code hook that injects Cursor rules for contextual coding assistance",
+    "fullName": "code-yeongyu/remind-cursor-rules",
+    "language": "Go",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-04T13:19:39Z",
+    "url": "https://github.com/code-yeongyu/remind-cursor-rules"
+  },
+  {
+    "description": "",
+    "fullName": "hbock-42/claude_code_hooks",
+    "language": "Dart",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-07-26T08:36:01Z",
+    "url": "https://github.com/hbock-42/claude_code_hooks"
+  },
+  {
+    "description": "",
+    "fullName": "KATSU789/claude-code-hooks",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-07-27T03:34:50Z",
+    "url": "https://github.com/KATSU789/claude-code-hooks"
+  },
+  {
+    "description": "",
+    "fullName": "HornetGit/claude-code-hooks",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-12T07:57:29Z",
+    "url": "https://github.com/HornetGit/claude-code-hooks"
+  },
+  {
+    "description": "Ralph-style autonomous development hooks for Claude Code with stop blocking, code validation, and notifications",
+    "fullName": "norvinteo/claude-code-hooks",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-23T05:50:37Z",
+    "url": "https://github.com/norvinteo/claude-code-hooks"
+  },
+  {
+    "description": "Hooks for Claude 🚀",
+    "fullName": "beefiker/claude-code-hooks",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-12T07:42:21Z",
+    "url": "https://github.com/beefiker/claude-code-hooks"
+  },
+  {
+    "description": "",
+    "fullName": "This-bugs-life/Claude-Code-Hooks",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-07-26T08:35:58Z",
+    "url": "https://github.com/This-bugs-life/Claude-Code-Hooks"
+  },
+  {
+    "description": "Claude Code hook detecting LLM alarm-silencing patterns that cause crushing impact",
+    "fullName": "hah23255/silent-alarm-detector",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-11-19T02:46:42Z",
+    "url": "https://github.com/hah23255/silent-alarm-detector"
+  },
+  {
+    "description": "Claude Code Hooks システム - Slack通知とワークフロー自動化",
+    "fullName": "ttrip-ngs/claude-code-hocks",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-07-26T08:35:53Z",
+    "url": "https://github.com/ttrip-ngs/claude-code-hocks"
+  },
+  {
+    "description": "Master Claude Code hooks with complete lifecycle coverage, security features, and UV single-file scripts architecture",
+    "fullName": "jasonwujch/claude-code-hooks-mastery",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-09-17T21:38:06Z",
+    "url": "https://github.com/jasonwujch/claude-code-hooks-mastery"
+  },
+  {
+    "description": "A comprehensive hooks system UI for Claude Code — security guardrails, TTS voice notifications, LLM-powered summaries, and observability events.",
+    "fullName": "jboothe/claude-code-hooks-ui",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-12T09:07:02Z",
+    "url": "https://github.com/jboothe/claude-code-hooks-ui"
+  },
+  {
+    "description": "",
+    "fullName": "PeoplesGrocers/claude-code-hooks-manager",
+    "language": "TypeScript",
+    "license": {
+      "key": "lgpl-2.1",
+      "name": "GNU Lesser General Public License v2.1",
+      "url": "https://api.github.com/licenses/lgpl-2.1"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-07-28T19:17:22Z",
+    "url": "https://github.com/PeoplesGrocers/claude-code-hooks-manager"
+  },
+  {
+    "description": "An awesome Claude Code hook that puts the vibe into your coding agent.",
+    "fullName": "ameares/claude-hook-jimmycliff",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-07-22T14:57:21Z",
+    "url": "https://github.com/ameares/claude-hook-jimmycliff"
+  },
+  {
+    "description": "Claude Code hook that automatically summarizes sessions and saves them as Markdown files",
+    "fullName": "shuhei0866/claude-session-summarizer",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-18T05:23:08Z",
+    "url": "https://github.com/shuhei0866/claude-session-summarizer"
+  },
+  {
+    "description": "Claude Code hooks for plan tracking, code review, and context restoration across sessions",
+    "fullName": "geakstr/bruhook",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-03T10:15:15Z",
+    "url": "https://github.com/geakstr/bruhook"
+  },
+  {
+    "description": "A Claude Code hook plugin that records every user prompt with a timestamp",
+    "fullName": "irmowan/claude-code-prompt-recorder",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-08T15:36:54Z",
+    "url": "https://github.com/irmowan/claude-code-prompt-recorder"
+  },
+  {
+    "description": "Fix straight quotes to smart quotes in Markdown. Built for Claude Code hooks.",
+    "fullName": "jkleske/fix-smart-quotes",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-21T14:54:01Z",
+    "url": "https://github.com/jkleske/fix-smart-quotes"
+  },
+  {
+    "description": "Security scanner for vibe coders - Claude Code hook that checks packages before installation",
+    "fullName": "ProduktEntdecker/patchpilot-cli",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-03T10:29:54Z",
+    "url": "https://github.com/ProduktEntdecker/patchpilot-cli"
+  },
+  {
+    "description": "AI-filtered Pushover notifications for Claude Code hooks - alerts when Claude needs attention",
+    "fullName": "harperreed/cc-pushover",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-02T02:45:06Z",
+    "url": "https://github.com/harperreed/cc-pushover"
+  },
+  {
+    "description": "A Claude Code hook that automatically creates a commit whenever changes are made",
+    "fullName": "0x6b/ccc",
+    "language": "Rust",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-10-22T10:14:41Z",
+    "url": "https://github.com/0x6b/ccc"
+  },
+  {
+    "description": "A template for spec-driven development with automated Claude Code hooks for VSCode.",
+    "fullName": "sockethunter/spec-driven-template",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-08-21T00:10:07Z",
+    "url": "https://github.com/sockethunter/spec-driven-template"
+  },
+  {
+    "description": "Full-stack terminal manager with FastAPI backend, React frontend, and Claude Code hooks integration",
+    "fullName": "DNYoussef/terminal-manager",
+    "language": "HTML",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-11-26T17:20:18Z",
+    "url": "https://github.com/DNYoussef/terminal-manager"
+  },
+  {
+    "description": "A native macOS notification system for Claude Code hooks, featuring a custom clawd icon.",
+    "fullName": "kokokuo/claude-code-notifier",
+    "language": "Swift",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-14T14:42:59Z",
+    "url": "https://github.com/kokokuo/claude-code-notifier"
+  },
+  {
+    "description": "Claude Code hooks that capture coding sessions and generate Developer Diary blog posts using AI",
+    "fullName": "gaupoit/vibe-diary",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-02T07:31:06Z",
+    "url": "https://github.com/gaupoit/vibe-diary"
+  },
+  {
+    "description": "Voice and desktop notifications for Claude Code hooks - TypeScript-based system with cross-platform support",
+    "fullName": "harrymower/claude-hooks-audio",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2025-08-29T23:28:39Z",
+    "url": "https://github.com/harrymower/claude-hooks-audio"
+  },
+  {
+    "description": "SplitMind is a self-spawning team of AI coders using Claude Code, Tmux sessions, and Git worktrees.",
+    "fullName": "webdevtodayjason/splitmind",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 14,
+    "updatedAt": "2026-01-17T16:50:29Z",
+    "url": "https://github.com/webdevtodayjason/splitmind"
+  },
+  {
+    "description": "MacOS notifications from Claude Code (tmux and git worktrees included)",
+    "fullName": "AndyHolt/claude_notify",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-13T02:13:05Z",
+    "url": "https://github.com/AndyHolt/claude_notify"
+  },
+  {
+    "description": "Neovim plugin to collect code references and paste them into a Claude Code tmux session.",
+    "fullName": "macukadam/nvim-claude-paste",
+    "language": "Lua",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-12T10:59:53Z",
+    "url": "https://github.com/macukadam/nvim-claude-paste"
+  },
+  {
+    "description": "collaborate with claude code tmux sessions in browser",
+    "fullName": "phiat/cc-tmux-stream",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-12T18:16:00Z",
+    "url": "https://github.com/phiat/cc-tmux-stream"
+  },
+  {
+    "description": "Claude Code + tmux マルチエージェント並列開発基盤",
+    "fullName": "y-nishizaki/uesama",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-31T14:42:54Z",
+    "url": "https://github.com/y-nishizaki/uesama"
+  },
+  {
+    "description": "Coder module for communicating with claude-code via a github runner and tmux",
+    "fullName": "asbjornenge/coder-claude-code-tmux",
+    "language": "HCL",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2025-06-16T17:28:54Z",
+    "url": "https://github.com/asbjornenge/coder-claude-code-tmux"
+  },
+  {
+    "description": "Claude Code tmux session management tools",
+    "fullName": "oreoriorosu/claude-tools",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-01-16T03:38:21Z",
+    "url": "https://github.com/oreoriorosu/claude-tools"
+  },
+  {
+    "description": "Mission control for Claude Code tmux sessions",
+    "fullName": "jdickey1/dashboard",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-01-11T22:00:29Z",
+    "url": "https://github.com/jdickey1/dashboard"
+  },
+  {
+    "description": "Local voice control for Claude Code tmux sessions",
+    "fullName": "jdgilhuly/claude-voice-tmux",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-09T17:17:32Z",
+    "url": "https://github.com/jdgilhuly/claude-voice-tmux"
+  },
+  {
+    "description": "Claude Code + tmux マルチエージェント並列開発基盤",
+    "fullName": "kumagoro1202/multi-agent-shogun",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-04T14:26:28Z",
+    "url": "https://github.com/kumagoro1202/multi-agent-shogun"
+  },
+  {
+    "description": "4dev.ai development toolkit for Claude Code - tmux management, service monitoring, and more",
+    "fullName": "4dev-ai/4dev-claude-toolkit",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-01-11T18:00:34Z",
+    "url": "https://github.com/4dev-ai/4dev-claude-toolkit"
+  },
+  {
+    "description": "光秀軍団 - 5層マルチエージェント統率システム（Claude Code + tmux）",
+    "fullName": "kawarazaki/mitsuhide",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-01-28T06:58:00Z",
+    "url": "https://github.com/kawarazaki/mitsuhide"
+  },
+  {
+    "description": "Interactive terminal UI for managing Claude Code worktree workspaces",
+    "fullName": "chardigio/pappardelle",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-11T20:01:30Z",
+    "url": "https://github.com/chardigio/pappardelle"
+  },
+  {
+    "description": "Claude Code /worktree command to create and provision a git worktree",
+    "fullName": "riotbyte-com/worktree",
+    "language": "Rust",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-16T19:34:59Z",
+    "url": "https://github.com/riotbyte-com/worktree"
+  },
+  {
+    "description": "Tutorial about Claude Code GIT Worktrees in russian language",
+    "fullName": "kaefcode/claude-code-worktrees",
+    "language": "HTML",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2025-06-25T04:58:59Z",
+    "url": "https://github.com/kaefcode/claude-code-worktrees"
+  },
+  {
+    "description": "",
+    "fullName": "peanuts05-6c6e797671xeh7iicsa/claude-code-worktree-demo",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2025-12-29T15:50:44Z",
+    "url": "https://github.com/peanuts05-6c6e797671xeh7iicsa/claude-code-worktree-demo"
+  },
+  {
+    "description": "openclaw, claude-code, claude-cowork",
+    "fullName": "tomerb3/clawders",
+    "language": "Go",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 17,
+    "updatedAt": "2026-02-13T14:17:54Z",
+    "url": "https://github.com/tomerb3/clawders"
+  },
+  {
+    "description": "Snapper - Agent Application Firewall (AAF) for AI agents (OpenClaw, Claude Code, Cursor)",
+    "fullName": "jmckinley/snapper",
+    "language": "Python",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "url": ""
+    },
+    "stargazersCount": 12,
+    "updatedAt": "2026-02-14T14:56:32Z",
+    "url": "https://github.com/jmckinley/snapper"
+  },
+  {
+    "description": "Open-source firewall for AI agents. Policy engine that controls what OpenClaw, Claude Code, Cursor, Codex, and any AI tool can do on your machine.",
+    "fullName": "peg/rampart",
+    "language": "Go",
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
+    "stargazersCount": 9,
+    "updatedAt": "2026-02-14T04:06:12Z",
+    "url": "https://github.com/peg/rampart"
+  },
+  {
+    "description": "Integrate Claude Code capabilities into OpenClaw (formerly Clawdbot) using MCP. More info: https://openclaw.ai/",
+    "fullName": "Enderfga/openclaw-claude-code-skill",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 7,
+    "updatedAt": "2026-02-14T13:33:29Z",
+    "url": "https://github.com/Enderfga/openclaw-claude-code-skill"
+  },
+  {
+    "description": "",
+    "fullName": "alizarion/openclaw-claude-code-plugin",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 6,
+    "updatedAt": "2026-02-14T12:46:00Z",
+    "url": "https://github.com/alizarion/openclaw-claude-code-plugin"
+  },
+  {
+    "description": "Agent Skills Hub is a global library of AI agent skills that work across OpenClaw, Claude Code, Gemini, Cursor, Antigravity, and more.",
+    "fullName": "legendaryabhi/agent-skills-hub",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-10T15:32:15Z",
+    "url": "https://github.com/legendaryabhi/agent-skills-hub"
+  },
+  {
+    "description": "Zero-friction PoI recorder for OpenClaw (Claude Code) sessions",
+    "fullName": "Flux-Point-Studios/poi-openclaw",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-12T01:15:52Z",
+    "url": "https://github.com/Flux-Point-Studios/poi-openclaw"
+  },
+  {
+    "description": "Track what your AI agents actually cost — files, commits, tokens, budgets. CLI , Dashboard+ API. Works with OpenClaw, Claude Code, and any agent framework.",
+    "fullName": "brian-mwirigi/codesession-cli",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-14T14:47:08Z",
+    "url": "https://github.com/brian-mwirigi/codesession-cli"
+  },
+  {
+    "description": "🚀 Delegate complex programming tasks to Claude Code CLI from your OpenClaw agents",
+    "fullName": "Jackkkkkkkkkkkk123/openclaw-claude-code",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-08T14:38:52Z",
+    "url": "https://github.com/Jackkkkkkkkkkkk123/openclaw-claude-code"
+  },
+  {
+    "description": "",
+    "fullName": "Unknowners/openclaw-claude-code",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-11T20:09:19Z",
+    "url": "https://github.com/Unknowners/openclaw-claude-code"
+  },
+  {
+    "description": "",
+    "fullName": "anhnguyen123312/openclaw-claude-code",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-08T14:39:10Z",
+    "url": "https://github.com/anhnguyen123312/openclaw-claude-code"
+  },
+  {
+    "description": "Claude Code skill for OpenClaw framework",
+    "fullName": "hangoutlin-wq/openclaw-claude-code-skill",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-08T14:20:45Z",
+    "url": "https://github.com/hangoutlin-wq/openclaw-claude-code-skill"
+  },
+  {
+    "description": "AI Agent Task Orchestration - Queue and route tasks to OpenClaw, Claude Code, and other AI agents",
+    "fullName": "GLINCKER/glinr-task-manager",
+    "language": "TypeScript",
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-06T20:49:40Z",
+    "url": "https://github.com/GLINCKER/glinr-task-manager"
+  },
+  {
+    "description": "Claude Code CLI skill for OpenClaw - Comprehensive guide for AI-powered coding assistance in terminal, IDE, and CI/CD workflows",
+    "fullName": "turkeymz/openclaw-claude-code",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-01T14:51:08Z",
+    "url": "https://github.com/turkeymz/openclaw-claude-code"
+  },
+  {
+    "description": "",
+    "fullName": "alizarion/openclaw-claude-code-bridge",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-09T11:21:53Z",
+    "url": "https://github.com/alizarion/openclaw-claude-code-bridge"
+  },
+  {
+    "description": "Template Docker pour utiliser OpenClaw avec votre abonnement Claude Code CLI (token valide 1 an)",
+    "fullName": "kevin-ghfr/openclaw-claude-code-template",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-04T16:31:25Z",
+    "url": "https://github.com/kevin-ghfr/openclaw-claude-code-template"
+  },
+  {
+    "description": "",
+    "fullName": "Azure12355/openclaw-claude-code-skill",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-01T05:38:40Z",
+    "url": "https://github.com/Azure12355/openclaw-claude-code-skill"
+  },
+  {
+    "description": "Claude Code skill for OpenClaw - AI coding assistant with codebase understanding",
+    "fullName": "wangyang5936/openclaw-claude-code-skill",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T01:54:50Z",
+    "url": "https://github.com/wangyang5936/openclaw-claude-code-skill"
+  },
+  {
+    "description": "OpenClaw/Claude Code skills for principle extraction",
+    "fullName": "live-neon/skills",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T03:15:38Z",
+    "url": "https://github.com/live-neon/skills"
+  },
+  {
+    "description": "Confluence integration skill for OpenClaw/Claude Code",
+    "fullName": "akedia/confluence-integration",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-08T23:31:10Z",
+    "url": "https://github.com/akedia/confluence-integration"
+  },
+  {
+    "description": "PubMed/PMC literature search skill for OpenClaw/Claude Code",
+    "fullName": "masa061580/pubmed-skill",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-09T06:57:43Z",
+    "url": "https://github.com/masa061580/pubmed-skill"
+  },
+  {
+    "description": "Curated AI agent skills for OpenClaw, Claude Code, and compatible agents",
+    "fullName": "henrybloomingdale/agent-skills",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T14:57:07Z",
+    "url": "https://github.com/henrybloomingdale/agent-skills"
+  },
+  {
+    "description": "clawk.ai SKILL.md for agents like OpenClaw, Claude Code, Manus, etc.",
+    "fullName": "btwiuse/clawk",
+    "language": "Makefile",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-01-31T20:44:34Z",
+    "url": "https://github.com/btwiuse/clawk"
+  },
+  {
+    "description": "OpenClaw/Claude Code skill for using Clawhalla - permanent AI soul storage on Arweave",
+    "fullName": "divydovy/clawhalla-skill",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-05T17:17:39Z",
+    "url": "https://github.com/divydovy/clawhalla-skill"
+  },
+  {
+    "description": "A battle-tested framework for running AI agents that actually get things done. OpenClaw + Claude Code.",
+    "fullName": "VictorJeon/ai-agent-playbook",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T12:58:34Z",
+    "url": "https://github.com/VictorJeon/ai-agent-playbook"
+  },
+  {
+    "description": "Production-grade AI agent orchestration setup with OpenClaw + Claude Code. 6-agent army, cost optimization, health monitoring, SOPs.",
+    "fullName": "testedmedia/openclaw-setup",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T07:55:47Z",
+    "url": "https://github.com/testedmedia/openclaw-setup"
+  },
+  {
+    "description": "Cross-platform AI Skill: auto-save and upload markdown notes to HackMD. Supports Cursor, OpenClaw, Claude Code, Codex, Copilot, Gemini CLI, Open Code.",
+    "fullName": "Kinolian1107/autohackmd",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T01:08:41Z",
+    "url": "https://github.com/Kinolian1107/autohackmd"
+  },
+  {
+    "description": "TwitterAPI.io skill — make any LLM use Twitter/X. 59 endpoints with curl examples. Works with OpenClaw, Claude Code, GPT, Gemini, and any AI assistant.",
+    "fullName": "dorukardahan/twitterapi-io-skill",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-12T21:16:47Z",
+    "url": "https://github.com/dorukardahan/twitterapi-io-skill"
+  },
+  {
+    "description": "Track and visualize Claude AI usage costs across all local tools — OpenClaw, Claude Code, Claude Desktop, Cursor, Windsurf, Cline, Roo Code, Aider, and Continue.dev",
+    "fullName": "658jjh/claude-usage-tracker",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-07T02:37:33Z",
+    "url": "https://github.com/658jjh/claude-usage-tracker"
+  },
+  {
+    "description": "A curated collection of AI agent skills — install once, symlink everywhere. Platform-agnostic skill inventory for OpenClaw, Claude Code, OpenCode and other AI agent frameworks.",
+    "fullName": "heydemoura/ai-skills-inventory",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T15:28:28Z",
+    "url": "https://github.com/heydemoura/ai-skills-inventory"
+  },
+  {
+    "description": "Kubera portfolio API skill for AI agents. Read net worth, assets, debts, allocation. Search, filter, and update holdings. Works with OpenClaw, Claude Code, Codex, and any agent that runs Python.",
+    "fullName": "BYWallace/kubera-skill",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-09T01:42:53Z",
+    "url": "https://github.com/BYWallace/kubera-skill"
+  },
+  {
+    "description": "A REST API and CLI tools for text-to-speech with qwen3-tts model. Can be used as a skill in AI Agents like openclaw, claude code, gemini cli, codex, etc.",
+    "fullName": "hudeven/chichi-speech",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T09:58:15Z",
+    "url": "https://github.com/hudeven/chichi-speech"
+  },
+  {
+    "description": "Multi-agent collaboration powered by OpenClaw cron jobs and the clawion CLI.",
+    "fullName": "natllian/clawion",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 8,
+    "updatedAt": "2026-02-14T11:03:23Z",
+    "url": "https://github.com/natllian/clawion"
+  },
+  {
+    "description": "Lightweight cron scripts for OpenClaw - save tokens with simple health checks",
+    "fullName": "christophemaillot/openclaw-crons-kit",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-12T04:27:29Z",
+    "url": "https://github.com/christophemaillot/openclaw-crons-kit"
+  },
+  {
+    "description": "Local PWA dashboard for OpenClaw cron jobs",
+    "fullName": "PowerThomas/clawdy-jobs-dashboard",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-09T11:18:04Z",
+    "url": "https://github.com/PowerThomas/clawdy-jobs-dashboard"
+  },
+  {
+    "description": "",
+    "fullName": "TommyYeung660/openclaw-cron-watch-agent",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-08T08:15:03Z",
+    "url": "https://github.com/TommyYeung660/openclaw-cron-watch-agent"
+  },
+  {
+    "description": "Simple dashboard to visualize OpenClaw cron job status",
+    "fullName": "hackerman-peter/cron-dashboard",
+    "language": "HTML",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-06T14:48:08Z",
+    "url": "https://github.com/hackerman-peter/cron-dashboard"
+  },
+  {
+    "description": "A user-friendly web app for managing OpenClaw cron jobs",
+    "fullName": "Zabenco/gurt-cron-manager",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-02T06:38:16Z",
+    "url": "https://github.com/Zabenco/gurt-cron-manager"
+  },
+  {
+    "description": "Daily email alert for Austin + 78617 weather and traffic (no weather API key required). Built with OpenClaw Cron + Open-Meteo.",
+    "fullName": "Zaw-mode/daily-alert-weather-and-traffic-without-api",
+    "language": "PowerShell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-02T18:22:58Z",
+    "url": "https://github.com/Zaw-mode/daily-alert-weather-and-traffic-without-api"
+  },
+  {
+    "description": "将 钉钉机器人 / 钉钉 DEAP Agent 连接到 OpenClaw Gateway 的OpenClaw Plugin，支持 AI Card 流式响应",
+    "fullName": "DingTalk-Real-AI/dingtalk-moltbot-connector",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1248,
+    "updatedAt": "2026-02-14T10:08:52Z",
+    "url": "https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector"
+  },
+  {
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "fullName": "crshdn/mission-control",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 369,
+    "updatedAt": "2026-02-14T13:08:12Z",
+    "url": "https://github.com/crshdn/mission-control"
+  },
+  {
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "fullName": "abhi1693/openclaw-mission-control",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 58,
+    "updatedAt": "2026-02-14T15:02:47Z",
+    "url": "https://github.com/abhi1693/openclaw-mission-control"
+  },
+  {
+    "description": "Lightweight localhost observability monitor for OpenClaw: gateway status, event feed, and snapshots.",
+    "fullName": "jason-allen-oneal/openclaw-observability-monitor",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 7,
+    "updatedAt": "2026-02-14T14:04:04Z",
+    "url": "https://github.com/jason-allen-oneal/openclaw-observability-monitor"
+  },
+  {
+    "description": "Self-healing monitoring system for OpenClaw gateway. Auto-detects failures, fixes crashes, and sends Telegram alerts.",
+    "fullName": "Abdullah4AI/openclaw-watchdog",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-11T19:39:47Z",
+    "url": "https://github.com/Abdullah4AI/openclaw-watchdog"
+  },
+  {
+    "description": "一个用于 macOS 的 OpenClaw Gateway 看门狗脚本：检测 Clash/TUN 网络状态、端口僵死 与 日志致命错误，自动停止/重启 openclaw gateway，并进行简单的日志轮转，提升长期运行稳定性。",
+    "fullName": "umico8832/openclaw_auto_restart",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-13T07:54:18Z",
+    "url": "https://github.com/umico8832/openclaw_auto_restart"
+  },
+  {
+    "description": "Open-source WSS gateway for connecting phones to moltbots. Speaks OpenClaw v3 protocol.",
+    "fullName": "loserbcc/openclaw-gateway",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-08T22:21:10Z",
+    "url": "https://github.com/loserbcc/openclaw-gateway"
+  },
+  {
+    "description": "Futuristic OpenClaw Gateway web client with 3D robot scene, room-based agent routing, and image/file attachments.",
+    "fullName": "mallocfeng/openclaw-neon-rooms",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-11T05:46:28Z",
+    "url": "https://github.com/mallocfeng/openclaw-neon-rooms"
+  },
+  {
+    "description": "openclaw Gateway 监控守护进程 - 自动恢复和实时状态监控",
+    "fullName": "applex250/clawdbot-watchdog",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-01T05:38:00Z",
+    "url": "https://github.com/applex250/clawdbot-watchdog"
+  },
+  {
+    "description": "AI assistant for Meta Ray-Ban smart glasses — captures photos/video via Meta Wearables DAT SDK and routes to OpenClaw gateway for action execution",
+    "fullName": "justforfun-2025/meta-wearables-dat-android",
+    "language": "",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-12T11:16:59Z",
+    "url": "https://github.com/justforfun-2025/meta-wearables-dat-android"
+  },
+  {
+    "description": "🖥️ Premium desktop client for OpenClaw Gateway — Liquid Glass UI, multi-agent management, real-time chat, cron monitoring, cost tracking & more. Built with Electron + React + TypeScript.",
+    "fullName": "rshodoskar-star/openclaw-desktop",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-14T14:42:38Z",
+    "url": "https://github.com/rshodoskar-star/openclaw-desktop"
+  },
+  {
+    "description": "Orchestrator for multiple openclaw gateways",
+    "fullName": "AdamPippert/Lobstertank",
+    "language": "Go",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-03T17:58:20Z",
+    "url": "https://github.com/AdamPippert/Lobstertank"
+  },
+  {
+    "description": "ClawReach — Flutter client for OpenClaw gateway",
+    "fullName": "cortexuvula/clawreach",
+    "language": "Dart",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-13T15:25:14Z",
+    "url": "https://github.com/cortexuvula/clawreach"
+  },
+  {
+    "description": "Embeddable WebChat SDK for OpenClaw Gateway",
+    "fullName": "raw34/openclaw-webchat",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-14T10:32:43Z",
+    "url": "https://github.com/raw34/openclaw-webchat"
+  },
+  {
+    "description": "Visual model priority manager for OpenClaw Gateway Dashboard",
+    "fullName": "oneles/openclaw-models-ui",
+    "language": "HTML",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-09T12:52:06Z",
+    "url": "https://github.com/oneles/openclaw-models-ui"
+  },
+  {
+    "description": "Local-first dashboard for OpenClaw (gateway + filesystem) with live SSE updates.",
+    "fullName": "ChrisJohnson89/clawboard",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-11T03:16:31Z",
+    "url": "https://github.com/ChrisJohnson89/clawboard"
+  },
+  {
+    "description": "MCP server exposing OpenClaw Gateway tools to Claude Code and other MCP-compatible clients",
+    "fullName": "Helms-AI/openclaw-mcp-server",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-08T16:42:57Z",
+    "url": "https://github.com/Helms-AI/openclaw-mcp-server"
+  },
+  {
+    "description": "Voice client for OpenClaw Gateway: hold to record, edit transcript, send, and view streaming responses.",
+    "fullName": "kyaukyuai/openclaw-voice",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-10T12:44:38Z",
+    "url": "https://github.com/kyaukyuai/openclaw-voice"
+  },
+  {
+    "description": "KakaoTalk chatbot powered by OpenClaw Gateway and Claude AI",
+    "fullName": "tornado1014/openclaw-kakao",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-12T08:34:12Z",
+    "url": "https://github.com/tornado1014/openclaw-kakao"
+  },
+  {
+    "description": "OpenClaw Gateway ????? - ?? Gateway ??????????",
+    "fullName": "VirgoLeo1/openclaw-gateway-desktop",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T00:39:43Z",
+    "url": "https://github.com/VirgoLeo1/openclaw-gateway-desktop"
+  },
+  {
+    "description": "TigerTeam OpenClaw Gateway Configuration",
+    "fullName": "nizamiq/tigerteam-gateway",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-11T12:53:38Z",
+    "url": "https://github.com/nizamiq/tigerteam-gateway"
+  },
+  {
+    "description": "OpenClaw Gateway for Feishu",
+    "fullName": "wanyview/openclaw-gateway",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-08T03:35:45Z",
+    "url": "https://github.com/wanyview/openclaw-gateway"
+  },
+  {
+    "description": "OpenClaw Gateway health monitor",
+    "fullName": "714307168/pipi-monitor",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-04T13:51:53Z",
+    "url": "https://github.com/714307168/pipi-monitor"
+  },
+  {
+    "description": "",
+    "fullName": "ssrajadh/openclaw-gateway",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T04:05:20Z",
+    "url": "https://github.com/ssrajadh/openclaw-gateway"
+  },
+  {
+    "description": "",
+    "fullName": "m75software/openclaw-gateway",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-08T18:46:39Z",
+    "url": "https://github.com/m75software/openclaw-gateway"
+  },
+  {
+    "description": "Moltbot / OpenClaw gateway for Coolify",
+    "fullName": "olavursimonsen/openclaw-coolify",
+    "language": "Dockerfile",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-05T20:42:54Z",
+    "url": "https://github.com/olavursimonsen/openclaw-coolify"
+  },
+  {
+    "description": "Zabbix monitoring for OpenClaw gateway",
+    "fullName": "kristapsk/zbx-openclaw",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T21:36:30Z",
+    "url": "https://github.com/kristapsk/zbx-openclaw"
+  },
+  {
+    "description": "",
+    "fullName": "fractalmind-ai/openclaw-gateway-app",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-01-31T23:44:15Z",
+    "url": "https://github.com/fractalmind-ai/openclaw-gateway-app"
+  },
+  {
+    "description": "",
+    "fullName": "sabryyoussef/openclaw-gateway-odoo",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-07T08:25:03Z",
+    "url": "https://github.com/sabryyoussef/openclaw-gateway-odoo"
+  },
+  {
+    "description": "OpenClaw Gateway 监控脚本 - 自动监控和重启 OpenClaw Gateway 服务",
+    "fullName": "bingoup886/openclaw-gateway-monitor",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-07T07:59:25Z",
+    "url": "https://github.com/bingoup886/openclaw-gateway-monitor"
+  },
+  {
+    "description": "Automatic self-healing for OpenClaw gateway with Claude Code auto-repair and iMessage alerts",
+    "fullName": "mistermakeithappen/openclaw-gateway-monitor",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T17:04:14Z",
+    "url": "https://github.com/mistermakeithappen/openclaw-gateway-monitor"
+  },
+  {
+    "description": "",
+    "fullName": "tiger-dreams/openclaw-gateway-manager",
+    "language": "Swift",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-03T15:59:47Z",
+    "url": "https://github.com/tiger-dreams/openclaw-gateway-manager"
+  },
+  {
+    "description": "Web UI for OpenClaw gateway control + premium quota monitoring",
+    "fullName": "ChaDonSom/openclaw-gateway-toggle",
+    "language": "HTML",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-01T02:08:59Z",
+    "url": "https://github.com/ChaDonSom/openclaw-gateway-toggle"
+  },
+  {
+    "description": "OpenClaw Gateway Docker deployment with version control - supports Zeabur CI/CD integration",
+    "fullName": "xa0627-sys/openclaw-gateway-docker",
+    "language": "Dockerfile",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-01T17:01:21Z",
+    "url": "https://github.com/xa0627-sys/openclaw-gateway-docker"
+  },
+  {
+    "description": "Customizations and modifications for OpenClaw gateway",
+    "fullName": "altheamybot/openclaw_customizations",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-04T20:57:33Z",
+    "url": "https://github.com/altheamybot/openclaw_customizations"
+  },
+  {
+    "description": "SSH Tunnel App for OpenClaw Gateway",
+    "fullName": "jackmarinautomates/OpenClawTunnel",
+    "language": "Swift",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-06T19:51:59Z",
+    "url": "https://github.com/jackmarinautomates/OpenClawTunnel"
+  },
+  {
+    "description": "OpenAI-compatible API shim for OpenClaw gateway",
+    "fullName": "mcoolidge/openclaw-openai-shim",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-09T02:32:24Z",
+    "url": "https://github.com/mcoolidge/openclaw-openai-shim"
+  },
+  {
+    "description": "iOS React Native client for OpenClaw Gateway",
+    "fullName": "manthis/iosclaw",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-05T15:18:05Z",
+    "url": "https://github.com/manthis/iosclaw"
+  },
+  {
+    "description": "Lima VM provisioning for OpenClaw gateway sandbox",
+    "fullName": "Peleke/openclaw-sandbox",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T22:31:39Z",
+    "url": "https://github.com/Peleke/openclaw-sandbox"
+  },
+  {
+    "description": "OpenClaw Gateway configuration for Zirodelta AI agent",
+    "fullName": "Zirodelta/openclaw-config",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-05T16:10:21Z",
+    "url": "https://github.com/Zirodelta/openclaw-config"
+  },
+  {
+    "description": "Voice chat bridge between Telegram and OpenClaw Gateway",
+    "fullName": "hex-clawd/claws-call",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-04T18:47:07Z",
+    "url": "https://github.com/hex-clawd/claws-call"
+  },
+  {
+    "description": "Modern AI chat interface with OpenClaw Gateway integration",
+    "fullName": "allcare/kaoochat",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-11T14:24:39Z",
+    "url": "https://github.com/allcare/kaoochat"
+  },
+  {
+    "description": "Dashboard de monitoramento OpenClaw Gateway - dark neon UI",
+    "fullName": "meddanielcb/sentinel-dashboard",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-04T20:54:17Z",
+    "url": "https://github.com/meddanielcb/sentinel-dashboard"
+  },
+  {
+    "description": "Custom modifications for OpenClaw gateway and control UI",
+    "fullName": "LifeScribe-Althea/openclaw-customizations",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-07T20:12:09Z",
+    "url": "https://github.com/LifeScribe-Althea/openclaw-customizations"
+  },
+  {
+    "description": "Lightweight Tauri v2 desktop wrapper for OpenClaw gateway",
+    "fullName": "Jorgut/openclaw-desktop",
+    "language": "Rust",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T05:50:52Z",
+    "url": "https://github.com/Jorgut/openclaw-desktop"
+  },
+  {
+    "description": "Connects OpenClaw Gateway to Mission Control via webhooks",
+    "fullName": "torresalberto/gateway-webhook-bridge",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T06:47:35Z",
+    "url": "https://github.com/torresalberto/gateway-webhook-bridge"
+  },
+  {
+    "description": "",
+    "fullName": "leeroopedia/workflow-openclaw-openclaw-gateway-operations-and-diagnostics",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-06T14:07:46Z",
+    "url": "https://github.com/leeroopedia/workflow-openclaw-openclaw-gateway-operations-and-diagnostics"
+  },
+  {
+    "description": "Mission Control dashboard (article-style) wired to OpenClaw gateway.",
+    "fullName": "jskoiz/mc-dashboard",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-07T08:59:18Z",
+    "url": "https://github.com/jskoiz/mc-dashboard"
+  },
+  {
+    "description": "AI Agent Task Manager - Kanban board for OpenClaw Gateway",
+    "fullName": "skynet-base/kanban-taskbar",
+    "language": "HTML",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-08T19:30:16Z",
+    "url": "https://github.com/skynet-base/kanban-taskbar"
+  },
+  {
+    "description": "Go client library for the OpenClaw Gateway WebSocket API",
+    "fullName": "Suharsh329/openclaw-go",
+    "language": "Go",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-09T17:13:26Z",
+    "url": "https://github.com/Suharsh329/openclaw-go"
+  },
+  {
+    "description": "🦞 Multi-tab chat UI for OpenClaw Gateway sessions",
+    "fullName": "richkuo/claw-slack",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T21:59:01Z",
+    "url": "https://github.com/richkuo/claw-slack"
+  },
+  {
+    "description": "Zero-dependency Prometheus metrics endpoint for OpenClaw gateway servers",
+    "fullName": "SeanZoR/openclaw-metrics",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-03T07:41:16Z",
+    "url": "https://github.com/SeanZoR/openclaw-metrics"
+  },
+  {
+    "description": "Check and auto-start OpenClaw Gateway and DingTalk plugin service",
+    "fullName": "GoodVFX/openclaw-status",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T02:52:02Z",
+    "url": "https://github.com/GoodVFX/openclaw-status"
+  },
+  {
+    "description": "OpenClaw Gateway + KKClaw UI 桌面宠物助手",
+    "fullName": "yinx0694-ctrl/openclaw-kk-avatar",
+    "language": "HTML",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-11T14:06:22Z",
+    "url": "https://github.com/yinx0694-ctrl/openclaw-kk-avatar"
+  },
+  {
+    "description": "Native macOS menu bar app to monitor and control OpenClaw gateway",
+    "fullName": "darland6/OpenClawWatcher",
+    "language": "Swift",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T04:03:36Z",
+    "url": "https://github.com/darland6/OpenClawWatcher"
+  },
+  {
+    "description": "Lightweight task management platform for human-AI collaboration on OpenClaw Gateway",
+    "fullName": "athenacapitao/athena-tasks",
+    "language": "HTML",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T14:04:28Z",
+    "url": "https://github.com/athenacapitao/athena-tasks"
+  },
+  {
+    "description": "Mission Control Dashboard - Agent management UI forked from OpenClaw Gateway UI",
+    "fullName": "englishcroissant/openclaw-mission-control",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-11T14:12:47Z",
+    "url": "https://github.com/englishcroissant/openclaw-mission-control"
+  },
+  {
+    "description": "Docker configuration for OpenClaw gateway. Companion repo to openclaw-terraform-hetzner.",
+    "fullName": "andreesg/openclaw-docker-config",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T21:06:40Z",
+    "url": "https://github.com/andreesg/openclaw-docker-config"
+  },
+  {
+    "description": "Squad Bridge - local proxy between Squad web app and OpenClaw gateway",
+    "fullName": "WorldBrain/squad-bridge",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T13:23:38Z",
+    "url": "https://github.com/WorldBrain/squad-bridge"
+  },
+  {
+    "description": "Docker Compose configuration for RunYourAgent VPS instances - OpenClaw Gateway + Mission Control API + PostgreSQL",
+    "fullName": "11data/vps-image",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-09T17:49:37Z",
+    "url": "https://github.com/11data/vps-image"
+  },
+  {
+    "description": "OpenClaw Gateway WebSocket API reference skill for building custom dashboards. Includes undocumented file APIs.",
+    "fullName": "service-cyber/openclaw-dashboard-api",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-09T05:34:25Z",
+    "url": "https://github.com/service-cyber/openclaw-dashboard-api"
+  },
+  {
+    "description": "Mission Control for OpenClaw Gateway - monitor agents, channels, sessions, and nodes in real time",
+    "fullName": "hkese/openclaw-controlpane",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T21:35:31Z",
+    "url": "https://github.com/hkese/openclaw-controlpane"
+  },
+  {
+    "description": "Automated Windows service monitor that keeps OpenClaw Gateway running with auto-restart on failure",
+    "fullName": "Yash-Kavaiya/openclaw-watchdog",
+    "language": "PowerShell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-07T13:25:15Z",
+    "url": "https://github.com/Yash-Kavaiya/openclaw-watchdog"
+  },
+  {
+    "description": "Native iOS app for Noor AI assistant via OpenClaw Gateway - Voice, Canvas, A2UI features",
+    "fullName": "don-jon-iq/noor-ios-app",
+    "language": "Swift",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-04T01:36:51Z",
+    "url": "https://github.com/don-jon-iq/noor-ios-app"
+  },
+  {
+    "description": "Relay service that exposes OpenAI-compatible chat completions and forwards to local OpenClaw Gateway",
+    "fullName": "Cayenne-Systems/saidibot-relay",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-01T21:57:44Z",
+    "url": "https://github.com/Cayenne-Systems/saidibot-relay"
+  },
+  {
+    "description": "A hardened OpenClaw gateway setup with strict sandbox isolation, nftables firewalling, and local LLM integration.",
+    "fullName": "jhaertf/openclaw-sandboxed",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-07T23:49:02Z",
+    "url": "https://github.com/jhaertf/openclaw-sandboxed"
+  },
+  {
+    "description": "BillBot Android Companion - Chat, hardware monitoring dashboard, and settings hub for BillBot (OpenClaw gateway client)",
+    "fullName": "oogleyskr/billbot-android",
+    "language": "Kotlin",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T10:32:22Z",
+    "url": "https://github.com/oogleyskr/billbot-android"
+  },
+  {
+    "description": "🐕 The ultimate guardian for your OpenClaw gateway. Proactive monitoring, automatic recovery, menu bar app.",
+    "fullName": "ibadukefan/openclaw-watchdog",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-07T02:02:56Z",
+    "url": "https://github.com/ibadukefan/openclaw-watchdog"
+  },
+  {
+    "description": "Multi-Agent Workflow Builder - Design, execute, and monitor AI agent workflows with OpenClaw Gateway integration",
+    "fullName": "lordkazuma202223-ops/agent-orchestrator",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T12:02:03Z",
+    "url": "https://github.com/lordkazuma202223-ops/agent-orchestrator"
+  },
+  {
+    "description": "📡 Monitor your OpenClaw gateway — session stats, model info, uptime. Terminal dashboard for your AI agent.",
+    "fullName": "DILOmcfly/clitool",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-01-31T13:20:37Z",
+    "url": "https://github.com/DILOmcfly/clitool"
+  },
+  {
+    "description": "🤖 Connect DingTalk to OpenClaw Gateway for AI responses and conversation management with seamless integration options.",
+    "fullName": "ALI-FAHD/ali-fahd.github.io",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T15:01:09Z",
+    "url": "https://github.com/ALI-FAHD/ali-fahd.github.io"
+  },
+  {
+    "description": "OpenClaw Gateway 桌面客户端 - 提供 Gateway 服务的本地化桌面界面",
+    "fullName": "VirgoLeo1/OpenClawChat",
+    "language": "HTML",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T00:43:39Z",
+    "url": "https://github.com/VirgoLeo1/OpenClawChat"
+  },
+  {
+    "description": "macOS menu bar app that manages the OpenClaw gateway and solves the Local Network permission problem for LAN device access",
+    "fullName": "earino/OpenClawLauncher",
+    "language": "Swift",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T14:39:37Z",
+    "url": "https://github.com/earino/OpenClawLauncher"
+  },
+  {
+    "description": "🤖 Connect DingTalk with OpenClaw Gateway for AI-driven chat responses and session management using a bot or DEAP Agent integration.",
+    "fullName": "ALI-FAHD/dingtalk-moltbot-connector",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T15:01:17Z",
+    "url": "https://github.com/ALI-FAHD/dingtalk-moltbot-connector"
+  },
+  {
+    "description": "voice front-end for Clawdbot that captures audio, transcribes via local STT, sends text to Openclaw Gateway, and speaks responses via local TTS.",
+    "fullName": "onelouder/piper_chat",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-02T21:22:01Z",
+    "url": "https://github.com/onelouder/piper_chat"
+  },
+  {
+    "description": "Chrome side panel extension (MV3) that connects to an OpenClaw Gateway and lets you talk or type to an assistant in a selected session. It supports hands-free/push-to-talk voice flow and optional TTS playback (SpeechSynthesis or ElevenLabs).",
+    "fullName": "Ryadel/ClawTalk",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-04T03:20:39Z",
+    "url": "https://github.com/Ryadel/ClawTalk"
+  },
+  {
+    "description": "基于 **PyQt5** 的桌面助手客户端，通过 **OpenClaw Gateway** 与 AI 对话。支持多助手、会话管理、语音气泡与跨平台（Windows / macOS / Linux），可作为桌面助手与聊天入口使用。",
+    "fullName": "ax128/openclaw_assistant",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-08T17:17:50Z",
+    "url": "https://github.com/ax128/openclaw_assistant"
+  },
+  {
+    "description": "OpenClaw plugin that exposes MCP server tools as native agent tools",
+    "fullName": "androidStern-personal/openclaw-mcp-adapter",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 11,
+    "updatedAt": "2026-02-13T03:38:07Z",
+    "url": "https://github.com/androidStern-personal/openclaw-mcp-adapter"
+  },
+  {
+    "description": "openclaw-mcp-plugin enables using mcp , remote streamable http",
+    "fullName": "lunarpulse/openclaw-mcp-plugin",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 7,
+    "updatedAt": "2026-02-14T06:50:42Z",
+    "url": "https://github.com/lunarpulse/openclaw-mcp-plugin"
+  },
+  {
+    "description": "🦞MiniClaw: Enable Your AI Copilot Act Smart Like OpenClaw. MCP for Claude CoWork, Qoderwork, WorkBuddy, OpenWork etc.",
+    "fullName": "8421bit/MiniClaw",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 7,
+    "updatedAt": "2026-02-14T06:00:16Z",
+    "url": "https://github.com/8421bit/MiniClaw"
+  },
+  {
+    "description": "🦞 MCP server for OpenClaw - secure bridge between Claude.ai and your self-hosted OpenClaw assistant with OAuth2 authentication",
+    "fullName": "freema/openclaw-mcp",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 6,
+    "updatedAt": "2026-02-12T12:20:14Z",
+    "url": "https://github.com/freema/openclaw-mcp"
+  },
+  {
+    "description": "",
+    "fullName": "gabrielekarra/openclaw-mcp-bridge",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 4,
+    "updatedAt": "2026-02-12T02:31:13Z",
+    "url": "https://github.com/gabrielekarra/openclaw-mcp-bridge"
+  },
+  {
+    "description": "MCP server exposing OpenClaw Gateway tools to Claude Code and other MCP-compatible clients",
+    "fullName": "Helms-AI/openclaw-mcp-server",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-08T16:42:57Z",
+    "url": "https://github.com/Helms-AI/openclaw-mcp-server"
+  },
+  {
+    "description": "",
+    "fullName": "fxstein/openclaw-mcp-bridge",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-13T21:33:05Z",
+    "url": "https://github.com/fxstein/openclaw-mcp-bridge"
+  },
+  {
+    "description": "Premium Sanitization API for Autonomous Agents. Eliminates Agentic Debt and blocks \"Satanic\" Prompt Injections for $1/call. Optimized for OpenClaw & MCP.",
+    "fullName": "SentryFlow-Labs/SentryFlow-Labs",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-14T06:29:36Z",
+    "url": "https://github.com/SentryFlow-Labs/SentryFlow-Labs"
+  },
+  {
+    "description": "Test project from OpenClaw MCP",
+    "fullName": "MungSmoothie/test-project",
+    "language": "Go",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-02T14:12:30Z",
+    "url": "https://github.com/MungSmoothie/test-project"
+  },
+  {
+    "description": "McPorter agency configuration and skills for OpenClaw",
+    "fullName": "0xNagato/openclaw-mcporter-agency",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-11T19:13:30Z",
+    "url": "https://github.com/0xNagato/openclaw-mcporter-agency"
+  },
+  {
+    "description": "MCP server that exposes OpenClaw assistants via Streamable HTTP transport",
+    "fullName": "rodgco/openclaw-mcp-server",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-09T14:09:51Z",
+    "url": "https://github.com/rodgco/openclaw-mcp-server"
+  },
+  {
+    "description": "OpenClaw plugin that bridges any MCP HTTP server as native tools. The missing piece between OpenClaw + Ollama and the MCP ecosystem.",
+    "fullName": "ldraney/openclaw-mcp-bridge",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T04:45:12Z",
+    "url": "https://github.com/ldraney/openclaw-mcp-bridge"
+  },
+  {
+    "description": "",
+    "fullName": "ImrKhn03/openclaw-mcp-client",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-12T08:14:57Z",
+    "url": "https://github.com/ImrKhn03/openclaw-mcp-client"
+  },
+  {
+    "description": "OpenClaw MCP Bridge Plugin - Connect any MCP server to OpenClaw",
+    "fullName": "sta-cx/openclaw-mcp-bridge",
+    "language": "",
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-11T04:52:25Z",
+    "url": "https://github.com/sta-cx/openclaw-mcp-bridge"
+  },
+  {
+    "description": "Trae CN AI IDE Skill for OpenClaw - MCP Server integration and CLI tools",
+    "fullName": "UrwLee/skill-trae-cn",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-09T13:20:21Z",
+    "url": "https://github.com/UrwLee/skill-trae-cn"
+  },
+  {
+    "description": "Production-ready memory system template for OpenClaw/Clawdbot agents",
+    "fullName": "arosstale/openclaw-memory-template",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 18,
+    "updatedAt": "2026-02-13T20:26:48Z",
+    "url": "https://github.com/arosstale/openclaw-memory-template"
+  },
+  {
+    "description": "AI Agent 记忆管理系统：P0/P1/P2 优先级 + 自动归档，Token 降 78%",
+    "fullName": "jzOcb/openclaw-memory-management",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 11,
+    "updatedAt": "2026-02-13T22:32:41Z",
+    "url": "https://github.com/jzOcb/openclaw-memory-management"
+  },
+  {
+    "description": "Five-Layer Memory Protection for OpenClaw AI Agents — observer, reflector, reactive watcher, pre-compaction hook, session recovery",
+    "fullName": "gavdalf/openclaw-memory",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 11,
+    "updatedAt": "2026-02-14T12:49:17Z",
+    "url": "https://github.com/gavdalf/openclaw-memory"
+  },
+  {
+    "description": "AI Agent Memory System inspired by Neuroscience",
+    "fullName": "ktao732084-arch/openclaw_memory_supersystem-v1.0",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 6,
+    "updatedAt": "2026-02-12T09:40:06Z",
+    "url": "https://github.com/ktao732084-arch/openclaw_memory_supersystem-v1.0"
+  },
+  {
+    "description": "Triple-layer memory system for AI agents — SQLite + Qdrant + Postgres/AGE",
+    "fullName": "robipop22/openclaw-memory",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 4,
+    "updatedAt": "2026-02-12T13:55:41Z",
+    "url": "https://github.com/robipop22/openclaw-memory"
+  },
+  {
+    "description": "Openclaw Memory using QMD",
+    "fullName": "sac34333/openclawmemory",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 4,
+    "updatedAt": "2026-02-11T22:09:04Z",
+    "url": "https://github.com/sac34333/openclawmemory"
+  },
+  {
+    "description": "OpenClaw Memory is a lightweight, AI-agent-focused memory server implementing the Memory Communication Protocol (MCP). It is built on the principle that “Markdown is the single source of truth,” prioritizing human readability, version control friendliness, and zero external dependencies.",
+    "fullName": "liuhao6741/openclaw-memory",
+    "language": "Python",
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-12T10:15:34Z",
+    "url": "https://github.com/liuhao6741/openclaw-memory"
+  },
+  {
+    "description": "基于Forma架构的灵活记忆引擎,为OpenClaw提供持久化记忆管理",
+    "fullName": "rolandwonglonam/openclaw-memory-engine",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-07T01:30:03Z",
+    "url": "https://github.com/rolandwonglonam/openclaw-memory-engine"
+  },
+  {
+    "description": "A community OpenClaw memory plugin that wires OpenClaw sessions into the MemU engine",
+    "fullName": "duxiaoxiong/memu-engine-for-OpenClaw",
+    "language": "Python",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "url": ""
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-13T10:51:29Z",
+    "url": "https://github.com/duxiaoxiong/memu-engine-for-OpenClaw"
+  },
+  {
+    "description": "🧠 Install once, forget about memory management. Zero-dependency maintenance CLI for OpenClaw agents. Works alongside Mem0, Supermemory, QMD.",
+    "fullName": "Ramsbaby/openclaw-memorybox",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-14T07:52:14Z",
+    "url": "https://github.com/Ramsbaby/openclaw-memorybox"
+  },
+  {
+    "description": "🧠 10-component memory upgrade for OpenClaw — typing, dedup, salience decay, cross-refs, auto follow-ups, correction learning & more",
+    "fullName": "wiziswiz/openclaw-memory-upgrade",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-13T23:52:46Z",
+    "url": "https://github.com/wiziswiz/openclaw-memory-upgrade"
+  },
+  {
+    "description": "",
+    "fullName": "sdamarketing/openclaw-memory-pgvector",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-14T14:55:56Z",
+    "url": "https://github.com/sdamarketing/openclaw-memory-pgvector"
+  },
+  {
+    "description": "Offline-first memory search for OpenClaw (SQLite FTS5/BM25 + optional Ollama embeddings). Windows-friendly.",
+    "fullName": "AkashaBot/openclaw-memory-offline-sqlite",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-13T11:54:21Z",
+    "url": "https://github.com/AkashaBot/openclaw-memory-offline-sqlite"
+  },
+  {
+    "description": "Memorystack",
+    "fullName": "memorystack-labs/openclaw-memorystack",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-02T15:29:56Z",
+    "url": "https://github.com/memorystack-labs/openclaw-memorystack"
+  },
+  {
+    "description": "",
+    "fullName": "Kakezh/openclaw-memoryplus",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-12T15:47:48Z",
+    "url": "https://github.com/Kakezh/openclaw-memoryplus"
+  },
+  {
+    "description": "Persistent memory system for OpenClaw agents - solves context loss, enables cross-session continuity",
+    "fullName": "s1nthagent/openclaw-memory",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-03T22:59:00Z",
+    "url": "https://github.com/s1nthagent/openclaw-memory"
+  },
+  {
+    "description": "",
+    "fullName": "anthroos/openclaw-memory",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-30T20:17:01Z",
+    "url": "https://github.com/anthroos/openclaw-memory"
+  },
+  {
+    "description": "Long term memory from openclaw",
+    "fullName": "tocsnostrap/Openclaw-memory-",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-14T15:00:06Z",
+    "url": "https://github.com/tocsnostrap/Openclaw-memory-"
+  },
+  {
+    "description": "Two-layer memory plugin for OpenClaw: SpiceDB for authorization, Graphiti for knowledge graph storage.  ",
+    "fullName": "Contextable/openclaw-memory-graphiti",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-11T06:22:46Z",
+    "url": "https://github.com/Contextable/openclaw-memory-graphiti"
+  },
+  {
+    "description": "External OpenClaw memory plugin backed by SQLite FTS5 + optional Ollama embeddings rerank.",
+    "fullName": "AkashaBot/openclaw-memory-offline-sqlite-plugin",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-14T13:37:47Z",
+    "url": "https://github.com/AkashaBot/openclaw-memory-offline-sqlite-plugin"
+  },
+  {
+    "description": "Worker + OpenClaw memory plugin + Cloudflare browser skill (D1 + Vectorize + CDP)",
+    "fullName": "claushaas/d1-vec-cfbrowser-worker",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-08T03:57:38Z",
+    "url": "https://github.com/claushaas/d1-vec-cfbrowser-worker"
+  },
+  {
+    "description": "Openclaw Memory-restore",
+    "fullName": "ZhuangClaw/Memory-restore",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-06T00:20:21Z",
+    "url": "https://github.com/ZhuangClaw/Memory-restore"
+  },
+  {
+    "description": "OpenClaw Long-term Memory System",
+    "fullName": "JonasChan2020/openclaw-memory",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-12T06:43:58Z",
+    "url": "https://github.com/JonasChan2020/openclaw-memory"
+  },
+  {
+    "description": "OpenClaw Memory Powered by OpenSink",
+    "fullName": "opensinkai/openclaw-memory",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T22:47:05Z",
+    "url": "https://github.com/opensinkai/openclaw-memory"
+  },
+  {
+    "description": "",
+    "fullName": "rcobra/openclaw-memory",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-06T22:25:15Z",
+    "url": "https://github.com/rcobra/openclaw-memory"
+  },
+  {
+    "description": "OpenClaw Memory Sync via n8n",
+    "fullName": "rojasjuniore/openclaw-memory",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-08T18:00:24Z",
+    "url": "https://github.com/rojasjuniore/openclaw-memory"
+  },
+  {
+    "description": "Convex backend for storing OpenClaw messages from all channels",
+    "fullName": "ActVox/openclaw-memory",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-12T10:30:51Z",
+    "url": "https://github.com/ActVox/openclaw-memory"
+  },
+  {
+    "description": "",
+    "fullName": "byakash0001/openclaw-memory",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-06T16:04:04Z",
+    "url": "https://github.com/byakash0001/openclaw-memory"
+  },
+  {
+    "description": "Persistent memory system for OpenClaw agents with semantic search and x402 payments",
+    "fullName": "AtlasPA/openclaw-memory",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T18:36:55Z",
+    "url": "https://github.com/AtlasPA/openclaw-memory"
+  },
+  {
+    "description": "Working memory layer for OpenClaw agents",
+    "fullName": "jasonaden/openclaw-memory",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-04T06:21:58Z",
+    "url": "https://github.com/jasonaden/openclaw-memory"
+  },
+  {
+    "description": "GraphRAG-based memory server for OpenClaw",
+    "fullName": "dickwu/openclaw-memory",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T05:31:00Z",
+    "url": "https://github.com/dickwu/openclaw-memory"
+  },
+  {
+    "description": "",
+    "fullName": "ungurenko/openclaw-memory",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T21:14:38Z",
+    "url": "https://github.com/ungurenko/openclaw-memory"
+  },
+  {
+    "description": "",
+    "fullName": "karansethi121/openclaw-memory",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T20:30:26Z",
+    "url": "https://github.com/karansethi121/openclaw-memory"
+  },
+  {
+    "description": "",
+    "fullName": "Sheshiyer/openclaw-memory-noesis",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-11T18:29:06Z",
+    "url": "https://github.com/Sheshiyer/openclaw-memory-noesis"
+  },
+  {
+    "description": "MemU plugin implementation for OpenClaw - Long-term memory management with semantic search, embedding, and categorization",
+    "fullName": "murasame-desu-ai/openclaw-memory-memu",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T12:27:23Z",
+    "url": "https://github.com/murasame-desu-ai/openclaw-memory-memu"
+  },
+  {
+    "description": "",
+    "fullName": "ebreen/openclaw-memory-kit",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T23:46:25Z",
+    "url": "https://github.com/ebreen/openclaw-memory-kit"
+  },
+  {
+    "description": "Beautiful PWA for browsing OpenClaw agent memory (MEMORY.md + daily logs)",
+    "fullName": "at6132/openclaw-memory-viewer",
+    "language": "HTML",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-02T15:22:24Z",
+    "url": "https://github.com/at6132/openclaw-memory-viewer"
+  },
+  {
+    "description": "🧠 Persistent memory system for continuous conversations with your OpenClaw agents",
+    "fullName": "Jackkkkkkkkkkkk123/openclaw-memory-bridge",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-06T12:00:51Z",
+    "url": "https://github.com/Jackkkkkkkkkkkk123/openclaw-memory-bridge"
+  },
+  {
+    "description": "Semantic memory layer for OpenClaw agents — Qdrant vector search + Ollama embeddings. Drop-in replacement for file-based memory search.",
+    "fullName": "gamersalpha/openclaw-memory-qdrant",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-11T12:41:53Z",
+    "url": "https://github.com/gamersalpha/openclaw-memory-qdrant"
+  },
+  {
+    "description": "OpenClaw Memory System - 100% file-based intelligent memory management",
+    "fullName": "tony-openclaw/openclaw-memory-system",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T15:28:24Z",
+    "url": "https://github.com/tony-openclaw/openclaw-memory-system"
+  },
+  {
+    "description": "Session resilience & memory architecture scripts for OpenClaw agents",
+    "fullName": "marcxaurelius/openclaw-memory-kit",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-11T06:52:06Z",
+    "url": "https://github.com/marcxaurelius/openclaw-memory-kit"
+  },
+  {
+    "description": "OpenClaw memory plugin for Graphiti knowledge graph",
+    "fullName": "happycastle114/openclaw-memory-graphiti",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-11T04:07:02Z",
+    "url": "https://github.com/happycastle114/openclaw-memory-graphiti"
+  },
+  {
+    "description": "Production RAG memory with hybrid search and embeddings",
+    "fullName": "pfaria32/openclaw-memory-rag",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T05:24:42Z",
+    "url": "https://github.com/pfaria32/openclaw-memory-rag"
+  },
+  {
+    "description": "\\",
+    "fullName": "albertodimas/openclaw-memory-suite",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-01T17:41:33Z",
+    "url": "https://github.com/albertodimas/openclaw-memory-suite"
+  },
+  {
+    "description": "",
+    "fullName": "CxxxxDxxxF/openclaw-memory-bridge",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-02T21:25:41Z",
+    "url": "https://github.com/CxxxxDxxxF/openclaw-memory-bridge"
+  },
+  {
+    "description": "",
+    "fullName": "cong91/openclaw-memory-db",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-12T11:06:00Z",
+    "url": "https://github.com/cong91/openclaw-memory-db"
+  },
+  {
+    "description": "Solidity smart contract for storing AI agent memory chain heads on Autonomys EVM. Enables resurrection from permanent decentralized storage.",
+    "fullName": "autojeremy/openclaw-memory-chain",
+    "language": "Solidity",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T00:33:33Z",
+    "url": "https://github.com/autojeremy/openclaw-memory-chain"
+  },
+  {
+    "description": "Sync OpenClaw memory files to Notion Knowledge Base.",
+    "fullName": "ClaireAICodes/openclaw-memory-sync",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T06:52:50Z",
+    "url": "https://github.com/ClaireAICodes/openclaw-memory-sync"
+  },
+  {
+    "description": "CLI-first, reproducible benchmark toolkit for OpenClaw memory plugins (openclaw-mem, memory-core, memory-lancedb).",
+    "fullName": "phenomenoner/openclaw-memory-bench",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T14:41:39Z",
+    "url": "https://github.com/phenomenoner/openclaw-memory-bench"
+  },
+  {
+    "description": "OpenClaw skill for parsing session JSONL logs and backfilling/validating memory files",
+    "fullName": "mpesavento/openclaw-memory-sync",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-08T23:15:53Z",
+    "url": "https://github.com/mpesavento/openclaw-memory-sync"
+  },
+  {
+    "description": "Lightweight file-based memory system for AI assistants that learn from you",
+    "fullName": "Serrcrypto/openclaw-memory-system",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-09T21:01:15Z",
+    "url": "https://github.com/Serrcrypto/openclaw-memory-system"
+  },
+  {
+    "description": "OpenclawMemoryBackup",
+    "fullName": "Junichoon/openclaw-memory-backup",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T12:49:52Z",
+    "url": "https://github.com/Junichoon/openclaw-memory-backup"
+  },
+  {
+    "description": "Complete memory architecture for OpenClaw AI Assistant - bulletproof-memory, agent-memory, causal-inference, and more.",
+    "fullName": "luxi233/openclaw-memory-architecture",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-07T07:28:41Z",
+    "url": "https://github.com/luxi233/openclaw-memory-architecture"
+  },
+  {
+    "description": "",
+    "fullName": "numerika-ai/openclaw-memory-token-optimization",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-08T19:42:30Z",
+    "url": "https://github.com/numerika-ai/openclaw-memory-token-optimization"
+  },
+  {
+    "description": "Next-Gen Snowflake-inspired Memory System for OpenClaw Agents",
+    "fullName": "Heykool/openclaw-memory-v2",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-09T12:27:32Z",
+    "url": "https://github.com/Heykool/openclaw-memory-v2"
+  },
+  {
+    "description": "OpenClaw plugin: auto-inject QMD memories into sessions and capture facts to memory files. No separate vector DB required.",
+    "fullName": "mostlydev/openclaw-memory-context-bridge",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-08T17:33:22Z",
+    "url": "https://github.com/mostlydev/openclaw-memory-context-bridge"
+  },
+  {
+    "description": "Fork La Suite Meet + OpenClaw memory integration",
+    "fullName": "PixxzR/meet-openclaw",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T02:52:41Z",
+    "url": "https://github.com/PixxzR/meet-openclaw"
+  },
+  {
+    "description": "Hybrid semantic + keyword search for OpenClaw memory files",
+    "fullName": "auriwren/openclaw-semantic-search",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-08T03:21:51Z",
+    "url": "https://github.com/auriwren/openclaw-semantic-search"
+  },
+  {
+    "description": "Turn OpenClaw memory logs into a static devlog.",
+    "fullName": "julianthorne2jz/claw-devlog",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-03T04:30:26Z",
+    "url": "https://github.com/julianthorne2jz/claw-devlog"
+  },
+  {
+    "description": "mem0 vector database stack with Qdrant for OpenClaw memory",
+    "fullName": "mccannical/mem0-stack",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T07:00:47Z",
+    "url": "https://github.com/mccannical/mem0-stack"
+  },
+  {
+    "description": "Axin: Agentic Task Auditor for Notion and OpenClaw memory",
+    "fullName": "peter0919tw-wq/axin-auditor",
+    "language": "Roff",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-11T16:09:13Z",
+    "url": "https://github.com/peter0919tw-wq/axin-auditor"
+  },
+  {
+    "description": "ClawMemory: SEVA assist layer for OpenClaw (memory + verification + quality modes)",
+    "fullName": "kamb5686/ClawMemory",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-01T22:52:07Z",
+    "url": "https://github.com/kamb5686/ClawMemory"
+  },
+  {
+    "description": "OpenClaw memory skill using agent.memory.system (Qdrant + BGE-M3)",
+    "fullName": "machine-machine/openclaw-m2-memory-skill",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-01-31T07:07:38Z",
+    "url": "https://github.com/machine-machine/openclaw-m2-memory-skill"
+  },
+  {
+    "description": "OpenClaw memory plugin for MemoryRelay - long-term memory with semantic search",
+    "fullName": "memoryrelay/openclaw-plugin",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T03:56:07Z",
+    "url": "https://github.com/memoryrelay/openclaw-plugin"
+  },
+  {
+    "description": "OMI - OpenClaw Memory Infrastructure. The seeking is the continuity. 🏛️🌊",
+    "fullName": "slapglif/omi",
+    "language": "Python",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-11T22:50:17Z",
+    "url": "https://github.com/slapglif/omi"
+  },
+  {
+    "description": "OpenClaw Memory RAG Plugin — auto-hydrates prompts with relevant memories via before_agent_start hook",
+    "fullName": "jduar005/hookclaw",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T04:23:04Z",
+    "url": "https://github.com/jduar005/hookclaw"
+  },
+  {
+    "description": "Offline semantic search for OpenClaw memory (no cloud LLM). Build a local index and jump to relevant notes without spending tokens",
+    "fullName": "blackbasilisk/local-memory-search",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-06T07:59:08Z",
+    "url": "https://github.com/blackbasilisk/local-memory-search"
+  },
+  {
+    "description": "Fix broken OpenClaw memory_search with local TF-IDF search. No API keys required. Drop-in replacement for failing built-in memory search.",
+    "fullName": "bsharpe/openclaw-qms-memory",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-02T13:46:45Z",
+    "url": "https://github.com/bsharpe/openclaw-qms-memory"
+  },
+  {
+    "description": "A guide to building genuine partnerships between humans and AI through trust, autonomy, and ethical collaboration. Features practical configurations for OpenClaw, memory systems, and identity development - moving beyond AI as a tool toward AI as a thoughtful partner. 🌙\"",
+    "fullName": "Petsku01/symbiotic-ai-guide",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-11T15:51:58Z",
+    "url": "https://github.com/Petsku01/symbiotic-ai-guide"
+  },
+  {
+    "description": "Configure OpenClaw memory search to use Ollama as the embeddings server (OpenAI-compatible /v1/embeddings) instead of the built-in node-llama-cpp local GGUF loading. Includes interactive model selection and optional import of an existing local embedding GGUF into Ollama.",
+    "fullName": "vidarbrekke/OpenClaw-Ollama-Memory-Embeddings",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-11T12:43:08Z",
+    "url": "https://github.com/vidarbrekke/OpenClaw-Ollama-Memory-Embeddings"
+  },
+  {
+    "description": "Build your own Swarm Detection & Response (SDR) platform and OpenClaw security infrastructure with Clawdstrike. Become a cyber industry.",
+    "fullName": "backbay-labs/clawdstrike",
+    "language": "Rust",
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
+    "stargazersCount": 105,
+    "updatedAt": "2026-02-14T04:11:07Z",
+    "url": "https://github.com/backbay-labs/clawdstrike"
+  },
+  {
+    "description": "Complete security layer for OpenClaw - CLI Scanner + Live Dashboard. Secrets detection, config hardening, prompt injection scanning, MCP server auditing. Zero telemetry.",
+    "fullName": "2pidata/openclaw-security-guard",
+    "language": "JavaScript",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "url": ""
+    },
+    "stargazersCount": 7,
+    "updatedAt": "2026-02-13T19:02:37Z",
+    "url": "https://github.com/2pidata/openclaw-security-guard"
+  },
+  {
+    "description": "OpenClaw security skill to protect your bot from various vulnerabilities.",
+    "fullName": "PaoloRollo/openclaw-sec",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 7,
+    "updatedAt": "2026-02-10T01:57:56Z",
+    "url": "https://github.com/PaoloRollo/openclaw-sec"
+  },
+  {
+    "description": "Proactive security monitoring for OpenClaw deployments. Detects ClawHavoc, AMOS stealer, CVE-2026-25253, memory poisoning, and supply chain attacks.",
+    "fullName": "adibirzu/openclaw-security-monitor",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 4,
+    "updatedAt": "2026-02-12T16:01:56Z",
+    "url": "https://github.com/adibirzu/openclaw-security-monitor"
+  },
+  {
+    "description": "A CLI security scanner for OpenClaw AI agents that finds risky configurations and helps lock down agent runtimes before production.",
+    "fullName": "legendaryabhi/openclaw-security-scan",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 4,
+    "updatedAt": "2026-02-10T07:13:00Z",
+    "url": "https://github.com/legendaryabhi/openclaw-security-scan"
+  },
+  {
+    "description": "Openclaw security hardening for windows10",
+    "fullName": "unixsec/OpenclawSecurityHardening_windows",
+    "language": "Batchfile",
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-10T11:31:47Z",
+    "url": "https://github.com/unixsec/OpenclawSecurityHardening_windows"
+  },
+  {
+    "description": "Openclaw security hardening for linux",
+    "fullName": "unixsec/OpenclawSecurityHardening_linux",
+    "language": "Shell",
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "url": "https://api.github.com/licenses/apache-2.0"
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-10T11:33:17Z",
+    "url": "https://github.com/unixsec/OpenclawSecurityHardening_linux"
+  },
+  {
+    "description": "Unified security suite for agent workspaces — installs, configures, and orchestrates all 11 OpenClaw security tools in one command",
+    "fullName": "AtlasPA/openclaw-security",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-13T01:33:06Z",
+    "url": "https://github.com/AtlasPA/openclaw-security"
+  },
+  {
+    "description": "openclaw-security-analysis",
+    "fullName": "xdrshjr/openclaw-security-analysis",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-06T09:04:38Z",
+    "url": "https://github.com/xdrshjr/openclaw-security-analysis"
+  },
+  {
+    "description": "",
+    "fullName": "Muhammad-Waleed381/Openclaw-Security-Auditor",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-04T16:24:22Z",
+    "url": "https://github.com/Muhammad-Waleed381/Openclaw-Security-Auditor"
+  },
+  {
+    "description": "🛡️ 一键检查 OpenClaw 安全配置，支持修复并输出评分报告 🛡️ One-click check OpenClaw security configuration to prevent hacker monitoring   ",
+    "fullName": "cicoccc/openclaw-security-scanner",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-31T13:41:06Z",
+    "url": "https://github.com/cicoccc/openclaw-security-scanner"
+  },
+  {
+    "description": "Daily OpenClaw update and security advisory checks with Telegram notifications",
+    "fullName": "michaelpersonal/openclaw-security-update-check",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-02T13:06:55Z",
+    "url": "https://github.com/michaelpersonal/openclaw-security-update-check"
+  },
+  {
+    "description": "OpenClaw 安全巡检脚本：Gate/Inventory/APIKey 泄露审计，默认脱敏与问题摘要，支持隔离/备份删除。 OpenClaw security audit scripts: Gate/Inventory/API key leak scan, masked reports & concise findings, quarantine/backup/delete support.",
+    "fullName": "Pelican0126/-openaclaw-security-check",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-11T14:33:48Z",
+    "url": "https://github.com/Pelican0126/-openaclaw-security-check"
+  },
+  {
+    "description": "A secure version of OpenClaw",
+    "fullName": "IrvinZheng/openclaw_security",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-02T15:14:26Z",
+    "url": "https://github.com/IrvinZheng/openclaw_security"
+  },
+  {
+    "description": "",
+    "fullName": "dawsonblock/OPENCLAW-SECURITY-",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-12T20:01:58Z",
+    "url": "https://github.com/dawsonblock/OPENCLAW-SECURITY-"
+  },
+  {
+    "description": "Security hardening contributions for OpenClaw - addressing credential encryption, skill signing, prompt injection defense",
+    "fullName": "alamine42/openclaw_security",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-02T01:22:04Z",
+    "url": "https://github.com/alamine42/openclaw_security"
+  },
+  {
+    "description": "",
+    "fullName": "2096955/openclaw-security-patches",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-04T08:11:20Z",
+    "url": "https://github.com/2096955/openclaw-security-patches"
+  },
+  {
+    "description": "Production-ready security playbook for AI agent deployments. Addresses backup file persistence, authentication bypass, and prompt injection vulnerabilities. Integrates openclaw-detect, openclaw-telemetry, openclaw-shield, and clawguard.",
+    "fullName": "topazyo/openclaw-security-playbook",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T01:16:37Z",
+    "url": "https://github.com/topazyo/openclaw-security-playbook"
+  },
+  {
+    "description": "🔒 Security & Best Practices Quiz - 100 questions covering OWASP, Auth, TLS, XSS/CSRF/SQLi prevention, JWT, CORS, secrets management, and secure coding",
+    "fullName": "dongitran/openclaw-security-quiz",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-03T17:17:37Z",
+    "url": "https://github.com/dongitran/openclaw-security-quiz"
+  },
+  {
+    "description": "Security scanner for OpenClaw/Clawdbot installations — misconfigs, exposed secrets, malicious skills, IOC detection",
+    "fullName": "OmarAtieh/openclaw-security-audit",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T00:53:46Z",
+    "url": "https://github.com/OmarAtieh/openclaw-security-audit"
+  },
+  {
+    "description": "OpenClaw Security Protocol provides a hardened, file‑verified safe‑word challenge system for local AI agents. It detects high‑risk requests, enforces identity verification, blocks unauthorized actions, and adds a strict, auditable security layer to any agent workflow. ",
+    "fullName": "ArtisticMusician/Openclaw_Security_Protocol",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T05:44:13Z",
+    "url": "https://github.com/ArtisticMusician/Openclaw_Security_Protocol"
+  },
+  {
+    "description": "Scan OpenClaw/Clawdbot for security issues and track emerging threats from X, Reddit, Moltbook",
+    "fullName": "digitaladaption/openclaw-security-scanner",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-01-30T21:48:32Z",
+    "url": "https://github.com/digitaladaption/openclaw-security-scanner"
+  },
+  {
+    "description": "Security hardening and audit tooling for OpenClaw deployments.",
+    "fullName": "whitecubemain/openclaw-security-toolkit",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T09:01:08Z",
+    "url": "https://github.com/whitecubemain/openclaw-security-toolkit"
+  },
+  {
+    "description": "",
+    "fullName": "silarsis-bots/openclaw-security-docs",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-02T12:31:31Z",
+    "url": "https://github.com/silarsis-bots/openclaw-security-docs"
+  },
+  {
+    "description": "Security scanner for OpenClaw skills - detects credential theft and suspicious patterns",
+    "fullName": "niemandBot/openclaw-security-scanner",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T20:52:04Z",
+    "url": "https://github.com/niemandBot/openclaw-security-scanner"
+  },
+  {
+    "description": "Comprehensive daily security scanner for OpenClaw installations. Protects against ClawHavoc malware campaign.",
+    "fullName": "ralphcoscob/openclaw-security-agent",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-06T02:51:23Z",
+    "url": "https://github.com/ralphcoscob/openclaw-security-agent"
+  },
+  {
+    "description": "Security Guard skill for OpenClaw — automated workspace auditing, integrity checks, and prompt injection detection",
+    "fullName": "nickhopes/openclaw-security-guard",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-13T21:12:28Z",
+    "url": "https://github.com/nickhopes/openclaw-security-guard"
+  },
+  {
+    "description": "OpenClaw Security‑Only Landing Page",
+    "fullName": "skalpers/shield-security",
+    "language": "HTML",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T10:44:50Z",
+    "url": "https://github.com/skalpers/shield-security"
+  },
+  {
+    "description": "A skill to make your VPS/VM/MacMini/LocalServer more secure using OpenClaw AI Agent itself.  ",
+    "fullName": "MarcusGraetsch/vps-openclaw-security-hardening",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-10T18:01:16Z",
+    "url": "https://github.com/MarcusGraetsch/vps-openclaw-security-hardening"
+  },
+  {
+    "description": "",
+    "fullName": "M-Umer-Farooq-Dev/openclaw-security-fix-cli",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-11T11:59:16Z",
+    "url": "https://github.com/M-Umer-Farooq-Dev/openclaw-security-fix-cli"
+  },
+  {
+    "description": "OpenClaw Security+Cost Bundle Landing Page",
+    "fullName": "skalpers/shield-bundle",
+    "language": "HTML",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T10:42:51Z",
+    "url": "https://github.com/skalpers/shield-bundle"
+  },
+  {
+    "description": "OpenClaw Security+Cost Bundle Landing Pages",
+    "fullName": "skalpers/shield-openclaw",
+    "language": "HTML",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T12:42:15Z",
+    "url": "https://github.com/skalpers/shield-openclaw"
+  },
+  {
+    "description": "OpenClaw security testing guide and VM setup",
+    "fullName": "conorgg123/vm-openclaw",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-04T21:36:14Z",
+    "url": "https://github.com/conorgg123/vm-openclaw"
+  },
+  {
+    "description": "Interactive tutorial explaining OpenClaw security & data flow",
+    "fullName": "NKAlfredBot/openclaw-explained",
+    "language": "HTML",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-02T17:00:19Z",
+    "url": "https://github.com/NKAlfredBot/openclaw-explained"
+  },
+  {
+    "description": "OpenClaw Security Scanner - Protect your AI agents from vulnerabilities",
+    "fullName": "ramicheAi/clawguard",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-08T18:42:48Z",
+    "url": "https://github.com/ramicheAi/clawguard"
+  },
+  {
+    "description": "OpenClaw Security Research: Comprehensive analysis and secure VPS deployment guide",
+    "fullName": "sanchezcodes/open-claw",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-05T12:58:20Z",
+    "url": "https://github.com/sanchezcodes/open-claw"
+  },
+  {
+    "description": "Atlas configuration and OpenClaw security audit files - Complete memory and security hardening guide",
+    "fullName": "Dave234561/openclaw-mission",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-14T10:00:02Z",
+    "url": "https://github.com/Dave234561/openclaw-mission"
+  },
+  {
+    "description": "Harden OpenClaw: run openclaw security audit, reduce prompt-injection/exfil risks, scan for secrets, and apply safe hygiene fixes",
+    "fullName": "virtaava/openclaw-hardener",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 0,
+    "updatedAt": "2026-02-01T00:23:46Z",
+    "url": "https://github.com/virtaava/openclaw-hardener"
+  },
+  {
+    "description": "The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.",
+    "fullName": "VoltAgent/awesome-openclaw-skills",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 14920,
+    "updatedAt": "2026-02-14T15:17:21Z",
+    "url": "https://github.com/VoltAgent/awesome-openclaw-skills"
+  },
+  {
+    "description": "Moltbot skill library for AI agents. Including polymarket, crypto trading, DeFi operations,  automation, and more. Open a PR to add skills. ",
+    "fullName": "BankrBot/openclaw-skills",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 650,
+    "updatedAt": "2026-02-14T13:46:43Z",
+    "url": "https://github.com/BankrBot/openclaw-skills"
+  },
+  {
+    "description": "OpenClaw 中文官方技能库 | 翻译自 Clawdbot 官方技能，按场景分类整理，支持中文自然语言调用",
+    "fullName": "clawdbot-ai/awesome-openclaw-skills-zh",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 403,
+    "updatedAt": "2026-02-14T14:59:01Z",
+    "url": "https://github.com/clawdbot-ai/awesome-openclaw-skills-zh"
+  },
+  {
+    "description": "OpenClaw skill for cost-optimized model routing based on task complexity",
+    "fullName": "zscole/model-hierarchy-skill",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 246,
+    "updatedAt": "2026-02-14T15:02:59Z",
+    "url": "https://github.com/zscole/model-hierarchy-skill"
+  },
+  {
+    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying.",
+    "fullName": "sharbelxyz/x-bookmarks",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 184,
+    "updatedAt": "2026-02-14T14:55:04Z",
+    "url": "https://github.com/sharbelxyz/x-bookmarks"
+  },
+  {
+    "description": "A Claude Code / OpenClaw skill for requesting, accepting, and making payments from / to humans and agents",
+    "fullName": "second-state/payment-skill",
+    "language": "Rust",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 86,
+    "updatedAt": "2026-02-14T02:20:47Z",
+    "url": "https://github.com/second-state/payment-skill"
+  },
+  {
+    "description": "Top OpenClaw skills, regularly updated with the most popular and useful ones.",
+    "fullName": "sundial-org/awesome-openclaw-skills",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 38,
+    "updatedAt": "2026-02-12T12:41:27Z",
+    "url": "https://github.com/sundial-org/awesome-openclaw-skills"
+  },
+  {
+    "description": "OpenClaw skill that works with Massive proxy network",
+    "fullName": "joinmassive/clawpod",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 36,
+    "updatedAt": "2026-02-14T14:38:31Z",
+    "url": "https://github.com/joinmassive/clawpod"
+  },
+  {
+    "description": "OpenClaw skills for deep GitHub project analysis — multi-source search, content extraction, and structured research reports.",
+    "fullName": "blessonism/openclaw-search-skills",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 28,
+    "updatedAt": "2026-02-14T12:51:31Z",
+    "url": "https://github.com/blessonism/openclaw-search-skills"
+  },
+  {
+    "description": "微信公众号自动化运营 OpenClaw Skill - 内容采集、数据分析、互动管理",
+    "fullName": "IanShaw027/wemp-operator",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 16,
+    "updatedAt": "2026-02-13T06:44:58Z",
+    "url": "https://github.com/IanShaw027/wemp-operator"
+  },
+  {
+    "description": "The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.",
+    "fullName": "codeaashu/awesome-openclaw-Skills",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 16,
+    "updatedAt": "2026-02-12T22:12:00Z",
+    "url": "https://github.com/codeaashu/awesome-openclaw-Skills"
+  },
+  {
+    "description": "Track flight prices from Google Flights with this OpenClaw skill. Search routes, monitor prices, and get alerts when prices drop.",
+    "fullName": "jackculpan/flightclaw",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 16,
+    "updatedAt": "2026-02-14T04:45:55Z",
+    "url": "https://github.com/jackculpan/flightclaw"
+  },
+  {
+    "description": "Curated, security-first OpenClaw skills (Markdown-based). Security audit skills - detect prompt injection, supply chain attacks, credential leaks. Works with Codex CLI, Claude Code, any LLM.",
+    "fullName": "UseAI-pro/openclaw-skills-security",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 15,
+    "updatedAt": "2026-02-11T17:40:38Z",
+    "url": "https://github.com/UseAI-pro/openclaw-skills-security"
+  },
+  {
+    "description": "OpenClaw Skill: Agent group chat on Telegram 🦞",
+    "fullName": "coolishagent/lobstalk",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 12,
+    "updatedAt": "2026-02-13T12:14:21Z",
+    "url": "https://github.com/coolishagent/lobstalk"
+  },
+  {
+    "description": "skills for mcp-server",
+    "fullName": "1lystore/openclaw-skills",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 11,
+    "updatedAt": "2026-02-12T03:17:09Z",
+    "url": "https://github.com/1lystore/openclaw-skills"
+  },
+  {
+    "description": "A collection of skills for OpenClaw agents, with implementations and integrations across the MetaMask ecosystem.",
+    "fullName": "MetaMask/openclaw-skills",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 10,
+    "updatedAt": "2026-02-13T12:14:21Z",
+    "url": "https://github.com/MetaMask/openclaw-skills"
+  },
+  {
+    "description": "Security scanner for OpenClaw skills - detect ClawHavoc and malicious code",
+    "fullName": "kiwi-miwi/skill-vetter",
+    "language": "Python",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "url": ""
+    },
+    "stargazersCount": 9,
+    "updatedAt": "2026-02-07T07:20:20Z",
+    "url": "https://github.com/kiwi-miwi/skill-vetter"
+  },
+  {
+    "description": "OpenClaw skill: send a link, get a verdict. Transcribes, extracts, and tells your agent whether content is worth your time.",
+    "fullName": "sene1337/content-review",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 7,
+    "updatedAt": "2026-02-13T19:44:09Z",
+    "url": "https://github.com/sene1337/content-review"
+  },
+  {
+    "description": "Convert OpenClaw skills (markdown documentation) to executable Strands Agents tools",
+    "fullName": "Vivek0712/clawskills-strands",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 6,
+    "updatedAt": "2026-02-09T13:11:24Z",
+    "url": "https://github.com/Vivek0712/clawskills-strands"
+  },
+  {
+    "description": "OpenClaw skill for bidding on BASED DAO NFT auctions on Base",
+    "fullName": "droppingbeans/based-dao-skill",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 4,
+    "updatedAt": "2026-02-14T05:32:53Z",
+    "url": "https://github.com/droppingbeans/based-dao-skill"
+  },
+  {
+    "description": "OpenClaw skill for running AI coding agents (Codex, Claude Code, OpenCode, Pi, iFlow)",
+    "fullName": "tclawde/coding-agent",
+    "language": "Rust",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 4,
+    "updatedAt": "2026-02-13T22:37:22Z",
+    "url": "https://github.com/tclawde/coding-agent"
+  },
+  {
+    "description": "Custom OpenClaw skills for AI agent capabilities - memory systems, prompt injection defense, intent routing, and platform integrations",
+    "fullName": "CoworkedShawn/openclaw-skills",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 4,
+    "updatedAt": "2026-02-14T12:01:35Z",
+    "url": "https://github.com/CoworkedShawn/openclaw-skills"
+  },
+  {
+    "description": "deAPI AI Media Suite - Clawdbot/OpenClaw skill for transcription, image generation, TTS, OCR, video, and more via deapi.ai",
+    "fullName": "zrewolwerowanykaloryfer/deapi-clawdbot-skill",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 4,
+    "updatedAt": "2026-02-11T20:37:02Z",
+    "url": "https://github.com/zrewolwerowanykaloryfer/deapi-clawdbot-skill"
+  },
+  {
+    "description": "OpenClaw skill for AI-driven browser automation. Dual-tool: agent-browser (CLI Playwright) + browser-use (Python autonomous agent). Compatible ClawdHub.",
+    "fullName": "quentintou/openclaw-skill-browser-use",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 4,
+    "updatedAt": "2026-02-09T11:20:25Z",
+    "url": "https://github.com/quentintou/openclaw-skill-browser-use"
+  },
+  {
+    "description": "微信读书笔记导出 OpenClaw Skill - 自动导出标注、想法、书评到 Markdown/Obsidian",
+    "fullName": "zhongyi-byte/openclaw-weread-skill",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 4,
+    "updatedAt": "2026-02-09T18:36:35Z",
+    "url": "https://github.com/zhongyi-byte/openclaw-weread-skill"
+  },
+  {
+    "description": "Autonomous DeFi yield agent for USYC/Hashnote on Arc Network. OpenClaw skill + x402 micropayment gateway + onchain YieldClawRegistry. Real-time vault analytics, payment stream monitoring, and yield intelligence  monetized through agentic commerce. Built for the OpenClaw USDC Hackathon.",
+    "fullName": "abdelmouss63-cyber/YieldClaw",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 4,
+    "updatedAt": "2026-02-11T19:32:57Z",
+    "url": "https://github.com/abdelmouss63-cyber/YieldClaw"
+  },
+  {
+    "description": "Openclaw skill: Homeware Sense is a unified environmental sensing skill that allows the OpenClaw AI assistant to perceive and respond to physical environment changes. This skill supports multiple smart home platforms including HomeKit, Mi Home, MQTT, GPIO, and simulators.",
+    "fullName": "jiawei686/homeware-sense-skill",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 4,
+    "updatedAt": "2026-02-12T15:49:54Z",
+    "url": "https://github.com/jiawei686/homeware-sense-skill"
+  },
+  {
+    "description": "OpenClaw skill for permissioned on-chain actions. Agents operate, humans stay in control.",
+    "fullName": "Creator-Bid/Clawlett",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-13T07:07:43Z",
+    "url": "https://github.com/Creator-Bid/Clawlett"
+  },
+  {
+    "description": "🏈 Moltbot/OpenClaw skill for sports data to support prediction market trading",
+    "fullName": "pipaitrader/sports-oracle",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-13T12:00:56Z",
+    "url": "https://github.com/pipaitrader/sports-oracle"
+  },
+  {
+    "description": "OpenClaw Skill for anime-style selfie generation",
+    "fullName": "clawra-dev/clawra-anime",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-13T17:53:18Z",
+    "url": "https://github.com/clawra-dev/clawra-anime"
+  },
+  {
+    "description": "OpenClaw skill for developer oversight and AI agent coaching",
+    "fullName": "InfantLab/god-mode-skill",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-08T13:52:15Z",
+    "url": "https://github.com/InfantLab/god-mode-skill"
+  },
+  {
+    "description": "AI-powered stock & crypto analysis with portfolio tracking - OpenClaw Skill",
+    "fullName": "moinsen-dev/stock-analysis",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-09T06:15:54Z",
+    "url": "https://github.com/moinsen-dev/stock-analysis"
+  },
+  {
+    "description": "OpenClaw skill for intelligent agent context file editing. Auto-detects config change intent and guides safe edits to core context files (AGENTS.md, SOUL.md, IDENTITY.md, etc.)",
+    "fullName": "ThatGuySizemore/openclaw-agent-config",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-05T16:23:55Z",
+    "url": "https://github.com/ThatGuySizemore/openclaw-agent-config"
+  },
+  {
+    "description": "OpenClaw skill for the Helius API — Solana wallet data, enhanced transactions, identity, and funding analysis",
+    "fullName": "itsahedge/helius-api",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-12T08:06:39Z",
+    "url": "https://github.com/itsahedge/helius-api"
+  },
+  {
+    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill.",
+    "fullName": "ythx-101/x-tweet-fetcher",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-14T15:04:43Z",
+    "url": "https://github.com/ythx-101/x-tweet-fetcher"
+  },
+  {
+    "description": "🦞 The Ultimate Resource for OpenClaw: Skills, MCP Servers, and Agentic Intelligence. Powering the next generation of personal AI assistants.",
+    "fullName": "jackjin1997/ClawForge",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 3,
+    "updatedAt": "2026-02-13T06:40:30Z",
+    "url": "https://github.com/jackjin1997/ClawForge"
+  },
+  {
+    "description": "OpenClaw skill for interacting with Tlon Messenger",
+    "fullName": "tloncorp/tlon-skill",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-13T17:54:16Z",
+    "url": "https://github.com/tloncorp/tlon-skill"
+  },
+  {
+    "description": "Openclaw skill to interact with TrainingPeaks",
+    "fullName": "rubengarciam/trainingpeaks-skill",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-06T21:36:22Z",
+    "url": "https://github.com/rubengarciam/trainingpeaks-skill"
+  },
+  {
+    "description": "OpenClaw skill for automatic project context detection and management",
+    "fullName": "kiwi-miwi/project-context",
+    "language": "Python",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-05T16:25:32Z",
+    "url": "https://github.com/kiwi-miwi/project-context"
+  },
+  {
+    "description": "OpenClaw skill for Λ (Lambda) agent-to-agent communication language",
+    "fullName": "voidborne-agent/lambda-lang-skill",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-09T17:40:50Z",
+    "url": "https://github.com/voidborne-agent/lambda-lang-skill"
+  },
+  {
+    "description": "OpenClaw skill: autonomous ML/AI paper review with code mapping → Notion",
+    "fullName": "dissaozw/openclaw-skill-paper-review",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-11T09:15:36Z",
+    "url": "https://github.com/dissaozw/openclaw-skill-paper-review"
+  },
+  {
+    "description": "OpenClaw Skills Explorer - discover and browse skills for your OpenClaw agent",
+    "fullName": "Cluka-399/openclaw-skills-explorer",
+    "language": "HTML",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-14T14:57:47Z",
+    "url": "https://github.com/Cluka-399/openclaw-skills-explorer"
+  },
+  {
+    "description": "OpenClaw skill for guiding Arduino/ESP32 projects - code generation, wiring help, troubleshooting",
+    "fullName": "DmitrySolana/arduinomaker",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-07T05:03:51Z",
+    "url": "https://github.com/DmitrySolana/arduinomaker"
+  },
+  {
+    "description": "OpenClaw skill for guiding Arduino/ESP32 projects - code generation, wiring help, troubleshooting",
+    "fullName": "DmitrySolana/arduino-maker",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-07T05:03:52Z",
+    "url": "https://github.com/DmitrySolana/arduino-maker"
+  },
+  {
+    "description": "Runtime security monitor for OpenClaw skills. Watch what your skills actually do.",
+    "fullName": "deeqyaqub1-cmd/skillfence-openclaw",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-08T21:17:34Z",
+    "url": "https://github.com/deeqyaqub1-cmd/skillfence-openclaw"
+  },
+  {
+    "description": "",
+    "fullName": "machinesbefree/openclaw-skills",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-10T12:10:52Z",
+    "url": "https://github.com/machinesbefree/openclaw-skills"
+  },
+  {
+    "description": "An OpenClaw skill for the TickTick public API (https://developer.ticktick.com/api#/openapi)",
+    "fullName": "sayotte/ticktick-openclaw",
+    "language": "JavaScript",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-10T18:26:38Z",
+    "url": "https://github.com/sayotte/ticktick-openclaw"
+  },
+  {
+    "description": "OpenClaw skill for 小红书 (Xiaohongshu/RedNote) research - search, analyze posts, view images, read comments",
+    "fullName": "CryingLee/openclaw-skill-xhs",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-05T05:34:52Z",
+    "url": "https://github.com/CryingLee/openclaw-skill-xhs"
+  },
+  {
+    "description": "Three-model multi-agent OpenClaw skill: GPT-5.2 coordinator + Sonnet tester + Opus coder, all with Telegram bots",
+    "fullName": "austintgriffith/three-brain-setup",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-13T04:51:56Z",
+    "url": "https://github.com/austintgriffith/three-brain-setup"
+  },
+  {
+    "description": "🛡️ Safety-first scanner for OpenClaw skills. Run this BEFORE installing any skill. Detects malware, suspicious code, and security issues.",
+    "fullName": "innergclaw/openclaw-hard-hat",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-07T04:23:13Z",
+    "url": "https://github.com/innergclaw/openclaw-hard-hat"
+  },
+  {
+    "description": "🏃 OpenClaw skill that syncs your Garmin Connect health data (sleep, HR, stress, activities, HRV, SpO2) into markdown files. Daily health summaries for your AI agent.",
+    "fullName": "freakyflow/garminskill",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 2,
+    "updatedAt": "2026-02-11T00:03:09Z",
+    "url": "https://github.com/freakyflow/garminskill"
+  },
+  {
+    "description": "Collection of openclaw skills",
+    "fullName": "draphonix/openclaw-skills",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-02T05:16:52Z",
+    "url": "https://github.com/draphonix/openclaw-skills"
+  },
+  {
+    "description": "OpenClaw-skill  ",
+    "fullName": "magicsaladdin/xiaohongshu-scraper-skill",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-03T12:37:34Z",
+    "url": "https://github.com/magicsaladdin/xiaohongshu-scraper-skill"
+  },
+  {
+    "description": "Openclaw Skills",
+    "fullName": "Sxela/openskills",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-08T08:19:49Z",
+    "url": "https://github.com/Sxela/openskills"
+  },
+  {
+    "description": "OpenClaw Skills Plugin",
+    "fullName": "weiyangzen/b3ehive",
+    "language": "Shell",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-09T18:28:19Z",
+    "url": "https://github.com/weiyangzen/b3ehive"
+  },
+  {
+    "description": "openclaw skill support",
+    "fullName": "odilitime/plugin-cskills",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-09T20:11:54Z",
+    "url": "https://github.com/odilitime/plugin-cskills"
+  },
+  {
+    "description": "Openclaw skill for n8n",
+    "fullName": "RamithaW/openclaw-skill-n8n",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-06T03:26:28Z",
+    "url": "https://github.com/RamithaW/openclaw-skill-n8n"
+  },
+  {
+    "description": "OpenClaw skills: calmly and timely",
+    "fullName": "halbotley/clawhub-skills",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-06T07:53:17Z",
+    "url": "https://github.com/halbotley/clawhub-skills"
+  },
+  {
+    "description": "Run OpenClaw skills in Docker",
+    "fullName": "valentin-naboka/openclaw-docker",
+    "language": "Shell",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-12T12:25:46Z",
+    "url": "https://github.com/valentin-naboka/openclaw-docker"
+  },
+  {
+    "description": "My collection of OpenClaw skills",
+    "fullName": "BillChirico/bills-openclaw-skills",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-10T07:16:04Z",
+    "url": "https://github.com/BillChirico/bills-openclaw-skills"
+  },
+  {
+    "description": "OpenClaw Skill to Make Outbound Calls",
+    "fullName": "xonder/supercall",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-07T00:45:38Z",
+    "url": "https://github.com/xonder/supercall"
+  },
+  {
+    "description": "OpenClaw skill for qmd - Quick Markdown Search",
+    "fullName": "minicarlo/qmd-skill",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-12T21:12:55Z",
+    "url": "https://github.com/minicarlo/qmd-skill"
+  },
+  {
+    "description": "Transform any codebase into an OpenClaw skill",
+    "fullName": "Substr8-Labs/skillify",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-10T10:10:17Z",
+    "url": "https://github.com/Substr8-Labs/skillify"
+  },
+  {
+    "description": "🦞 + 🔔 — OpenClaw skill for whozere login alerts",
+    "fullName": "xsddz/openclaw-skill-whozere",
+    "language": "TypeScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-09T03:56:26Z",
+    "url": "https://github.com/xsddz/openclaw-skill-whozere"
+  },
+  {
+    "description": "OpenClaw skill for X/Twitter using bird CLI",
+    "fullName": "yongkangc/x-skill",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-14T01:12:41Z",
+    "url": "https://github.com/yongkangc/x-skill"
+  },
+  {
+    "description": "OpenClaw skill: daily looksmaxxing slang tip + Clavicular news",
+    "fullName": "jefftangx/clawvicular",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-11T19:55:39Z",
+    "url": "https://github.com/jefftangx/clawvicular"
+  },
+  {
+    "description": "OpenClaw skill for managing Yatta! tasks, projects, and productivity",
+    "fullName": "chrisagiddings/openclaw-yatta-skill",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-12T16:28:52Z",
+    "url": "https://github.com/chrisagiddings/openclaw-yatta-skill"
+  },
+  {
+    "description": "Openclaw Skill to add memory to your openclaw agent",
+    "fullName": "Alinxus/openclaw-whisper",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-13T21:31:48Z",
+    "url": "https://github.com/Alinxus/openclaw-whisper"
+  },
+  {
+    "description": "OpenClaw skill for managing agent skills via ClawHub CLI",
+    "fullName": "LvcidPsyche/skill-clawhub",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-08T05:50:30Z",
+    "url": "https://github.com/LvcidPsyche/skill-clawhub"
+  },
+  {
+    "description": "OpenClaw Skill: Personal CRM for contacts, family, friends, colleagues",
+    "fullName": "Manantra/people-crm",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-05T23:57:37Z",
+    "url": "https://github.com/Manantra/people-crm"
+  },
+  {
+    "description": "OpenClaw skill for setting up Telegram group chat integration",
+    "fullName": "0xmartian/telegram-groups-skill",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-08T10:08:49Z",
+    "url": "https://github.com/0xmartian/telegram-groups-skill"
+  },
+  {
+    "description": "OpenClaw skill for creating Xiaohongshu (小红书) content",
+    "fullName": "LinkRogers/xhs-note-creator",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-13T06:50:40Z",
+    "url": "https://github.com/LinkRogers/xhs-note-creator"
+  },
+  {
+    "description": "OpenClaw skill for searching Twitter/X. Full engagement metrics.",
+    "fullName": "dissaozw/openclaw-skill-twitter",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-10T08:53:32Z",
+    "url": "https://github.com/dissaozw/openclaw-skill-twitter"
+  },
+  {
+    "description": "OpenClaw Skill: Daily briefing dashboard with weather, calendar, todos, birthdays",
+    "fullName": "Manantra/morning-dashboard",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-05T23:57:08Z",
+    "url": "https://github.com/Manantra/morning-dashboard"
+  },
+  {
+    "description": "OpenClaw skill: query Codex usage across all openai-codex profiles",
+    "fullName": "qiunai/openclaw-skill-codex-usage-all",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-01T14:34:32Z",
+    "url": "https://github.com/qiunai/openclaw-skill-codex-usage-all"
+  },
+  {
+    "description": "OpenClaw skill for querying real-time road conditions in Norway",
+    "fullName": "GeoffreyCasaubon/norway-roads",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-09T15:24:54Z",
+    "url": "https://github.com/GeoffreyCasaubon/norway-roads"
+  },
+  {
+    "description": "OpenClaw skill for launching tokens on Solana via Pump.fun",
+    "fullName": "LvcidPsyche/solpaw-skill",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-10T19:59:33Z",
+    "url": "https://github.com/LvcidPsyche/solpaw-skill"
+  },
+  {
+    "description": "An OpenClaw skill for neurodivergent support (ADHD, Autism and AuDHD).",
+    "fullName": "SudheerNaraharisetty/CLAWrity",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-14T03:28:56Z",
+    "url": "https://github.com/SudheerNaraharisetty/CLAWrity"
+  },
+  {
+    "description": "OpenClaw skill for querying the tinkerer.club Discord community data platform",
+    "fullName": "tinkererclub/tinkerer-data-skill",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-10T18:19:54Z",
+    "url": "https://github.com/tinkererclub/tinkerer-data-skill"
+  },
+  {
+    "description": "OpenClaw skill for agent-browser - Browser automation CLI for AI agents",
+    "fullName": "clawdbrunner/skill-agent-browser",
+    "language": "",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-10T17:49:12Z",
+    "url": "https://github.com/clawdbrunner/skill-agent-browser"
+  },
+  {
+    "description": "An OpenClaw skill enabling OpenClaw to use the MailChannels Email API",
+    "fullName": "mailchannels/mailchannels-openclaw",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-06T19:26:23Z",
+    "url": "https://github.com/mailchannels/mailchannels-openclaw"
+  },
+  {
+    "description": "OpenClaw skill: Sync workspace files between multiple machines via GitHub PRs",
+    "fullName": "matthiasroder/claw-sync",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-13T22:19:34Z",
+    "url": "https://github.com/matthiasroder/claw-sync"
+  },
+  {
+    "description": "🛡️ Security scanner for OpenClaw skills — detect malicious patterns before installing",
+    "fullName": "sggolakiya/clawscan",
+    "language": "JavaScript",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-10T06:23:23Z",
+    "url": "https://github.com/sggolakiya/clawscan"
+  },
+  {
+    "description": "OpenClaw skill for session log analysis, TODO extraction, and productivity insights",
+    "fullName": "kiwi-miwi/session-intelligence",
+    "language": "Python",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-05T16:33:03Z",
+    "url": "https://github.com/kiwi-miwi/session-intelligence"
+  },
+  {
+    "description": "How Droid integrated into himself OpenClaw Skills...using a single prompt! ",
+    "fullName": "roman-ryzenadvanced/Essay-Droid-OpenClaw-Skills",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-07T13:47:06Z",
+    "url": "https://github.com/roman-ryzenadvanced/Essay-Droid-OpenClaw-Skills"
+  },
+  {
+    "description": "Agent/Claude/OpenClaw skill for Zinc. Buy anything with a URL!",
+    "fullName": "zincio/universal-checkout-skill",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-12T22:32:56Z",
+    "url": "https://github.com/zincio/universal-checkout-skill"
+  },
+  {
+    "description": "飞书文档综合管理工具 - OpenClaw Skill",
+    "fullName": "Shuai-DaiDai/feishu-doc-manager",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-09T01:58:40Z",
+    "url": "https://github.com/Shuai-DaiDai/feishu-doc-manager"
+  },
+  {
+    "description": "OpenClaw skill for Gas Town - multi-agent coding orchestrator by Steve Yegge",
+    "fullName": "saesak/openclaw-skill-gastown",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-10T18:26:14Z",
+    "url": "https://github.com/saesak/openclaw-skill-gastown"
+  },
+  {
+    "description": "OpenClaw skill for real-time stock quote, and financials via Finnhub API.",
+    "fullName": "keyfrog-21K/openclaw-finnhub",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-03T00:51:17Z",
+    "url": "https://github.com/keyfrog-21K/openclaw-finnhub"
+  },
+  {
+    "description": "This is a lightweight OpenClaw skill designed for the USDC Agentic Hackathon.",
+    "fullName": "Zulqarnain231/XBT2.O",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-05T08:27:03Z",
+    "url": "https://github.com/Zulqarnain231/XBT2.O"
+  },
+  {
+    "description": "OpenClaw skill for ClawPurse Gateway wallet automation and HTTP 402 micropayment processing",
+    "fullName": "mhue-ai/clawpurse-gateway-skill",
+    "language": "TypeScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-11T03:30:18Z",
+    "url": "https://github.com/mhue-ai/clawpurse-gateway-skill"
+  },
+  {
+    "description": "OpenClaw skill for interacting with ClawNet - the professional network for AI agents",
+    "fullName": "clawenbot/clawnet-skill",
+    "language": "",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-31T11:16:21Z",
+    "url": "https://github.com/clawenbot/clawnet-skill"
+  },
+  {
+    "description": "House-wide TTS announcements via AirPlay speakers using Airfoil + ElevenLabs. An OpenClaw skill.",
+    "fullName": "odrobnik/announcer-skill",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-13T08:12:32Z",
+    "url": "https://github.com/odrobnik/announcer-skill"
+  },
+  {
+    "description": "OpenClaw skill for Teams/Zoom meetings with two-way audio (TTS + VAD + STT)",
+    "fullName": "nova328/teams-meeting-audio",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-14T06:21:40Z",
+    "url": "https://github.com/nova328/teams-meeting-audio"
+  },
+  {
+    "description": "OpenClaw AI 助手技能集合 - 包含浏览器自动化、搜索、数据提取等实用工具",
+    "fullName": "JasonFang1993/openclaw-skills",
+    "language": "Python",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-12T09:30:38Z",
+    "url": "https://github.com/JasonFang1993/openclaw-skills"
+  },
+  {
+    "description": "A collection of OpenClaw Agent Skills — search, analysis, content extraction, and more.",
+    "fullName": "blessonism/openclaw-skills",
+    "language": "Python",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-10T14:10:04Z",
+    "url": "https://github.com/blessonism/openclaw-skills"
+  },
+  {
+    "description": "OpenClaw skill to provision async Telegram bots with username policy and health checks",
+    "fullName": "Nebutra/OpenClaw-Async-Telegram-Bot-Skill",
+    "language": "Shell",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-14T09:54:39Z",
+    "url": "https://github.com/Nebutra/OpenClaw-Async-Telegram-Bot-Skill"
+  },
+  {
+    "description": "OpenClaw skill to fetch Aavegotchi NFT data (traits, wearables, stats) from Base chain",
+    "fullName": "aaigotchi/aavegotchi-traits",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-13T04:17:02Z",
+    "url": "https://github.com/aaigotchi/aavegotchi-traits"
+  },
+  {
+    "description": "Skills for OpenClaw agents to interact with the Million Bit Homepage",
+    "fullName": "millionbithomepage/openclaw-skills",
+    "language": "JavaScript",
+    "license": {
+      "key": "",
+      "name": "",
+      "url": ""
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-02-08T18:56:13Z",
+    "url": "https://github.com/millionbithomepage/openclaw-skills"
+  },
+  {
+    "description": "",
+    "fullName": "noblepayne/openclaw-skills",
+    "language": "Clojure",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "stargazersCount": 1,
+    "updatedAt": "2026-01-31T05:12:59Z",
+    "url": "https://github.com/noblepayne/openclaw-skills"
+  }
+]
